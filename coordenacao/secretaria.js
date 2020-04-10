@@ -117,6 +117,17 @@ style="background-image: url('images/279359-saiba-como-sua-radio-pode-vender-mai
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
             </div>
+            
+            </div>
+            <h2 class="mb-4">Semana da Páscoa (video 07) </h2>
+            <h3 class="mb-4"> Cristo, nosso Juiz</h3>
+            <div class="video-container">
+
+            <iframe width="1311" height="480" src="https://www.youtube.com/embed/o9-NJ7UHxPA"
+                  frameborder="0" 
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe>
+            </div>
         </div>
         <h2 class="mb-4">Semana da Páscoa: </h2>
         <h3 class="mb-4"> A cada dia será postado um novo vídeo referente a semana da Páscoa, em seguida disponível para
