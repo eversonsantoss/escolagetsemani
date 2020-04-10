@@ -1,4 +1,4 @@
-var alunos = '1234';
+var alunos = 'EJG1977';
 
 function validar() {
   console.log('teste');
