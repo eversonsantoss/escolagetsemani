@@ -1569,9 +1569,8 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <h3> Vídeo aula 03 (Matemática) </h3>
 <div class="video-container">
 
-  <iframe width="1311" height="480" src="https://www.youtube.com/embed/YTUqh6a1X6E" frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/io_rqxM4NnI" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -1906,7 +1905,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <h3> Vídeo aula 01</h3>
 <div class="video-container">
 
-  <iframe width="1311" height="480" src="https://www.youtube.com/embed/xsv0n5VPgnY" frameborder="0" 
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/GoK6bZOfEzs" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -2244,7 +2243,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <h3> Vídeo aula 01(Português)</h3>
 <div class="video-container">
 
-  <iframe width="1311" height="480" src="https://www.youtube.com/embed/lp_YBrvNfmE" frameborder="0"
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/2gv7wYKjsXA" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -2269,7 +2268,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <h3> Vídeo aula 04(Ciências)</h3>
 <div class="video-container">
 
-  <iframe width="1311" height="480" src="https://www.youtube.com/embed/ws1Hmelj4Ec" frameborder="0"
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/IWE_gUl79xI" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
@@ -2277,7 +2276,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <h3> Vídeo aula 05(História)</h3>
 <div class="video-container">
 
-  <iframe width="1311" height="480" src="https://www.youtube.com/embed/IVq5VPp2yT8" frameborder="0"
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/5ecAMuP1RQk" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
