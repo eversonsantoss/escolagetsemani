@@ -244,6 +244,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Vídeo aula 02</h3>
+<div class="video-container">
+
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/3E145UlE1fE" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
     <div class="row">
@@ -365,6 +373,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
   <iframe width="1311" height="480" src="https://www.youtube.com/embed/m6xCuqMvb7A" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 05</h3>
+<div class="video-container">
+
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/3E145UlE1fE" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -650,6 +666,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
   <iframe width="1311" height="480" src="https://www.youtube.com/embed/m6xCuqMvb7A" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 05</h3>
+<div class="video-container">
+
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/3E145UlE1fE" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -1910,6 +1934,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Vídeo aula 02</h3>
+<div class="video-container">
+
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/CrakjZmsi-k" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
   <div class="row">
@@ -2286,6 +2318,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
   <iframe width="1311" height="480" src="https://www.youtube.com/embed/9MyRKwqZBUo" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 07(Artes)</h3>
+<div class="video-container">
+
+  <iframe width="1311" height="480" src="https://www.youtube.com/embed/rvA8kY1R5DI" frameborder="0"
+   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
 
