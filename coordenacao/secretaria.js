@@ -384,11 +384,6 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
         <a href="./images/berçario/semana5/img5.jpg" download> <img class="img-fluid"
             src="./images/berçario/semana5/img5.jpg" alt=""></a>
       </div>
-      <div class="row">
-      <div class="col-sm">
-        <a href="./images/berçario/semana5/img5.jpg" download> <img class="img-fluid"
-            src="./images/berçario/semana5/img5.jpg" alt=""></a>
-      </div>
     </div>
   </div>
   </section>
