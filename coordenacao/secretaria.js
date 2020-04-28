@@ -387,6 +387,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
       </div>
     </div>
   </div>
+  </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
@@ -437,6 +438,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
       </div>
     </div>
   </div>
+  </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
