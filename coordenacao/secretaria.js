@@ -211,7 +211,9 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
       </div>
     </div> -->
     <div class="col-md-7 wrap-about py-5 pr-md-4 ">
-      <h2 class="mb-4">Vídeo Aula semanal </h2>
+    <h2 class= "mb-4"> Recado aos pais e/ou responsáveis: </h2>
+    <h3 class="mb-4"> Querida FAMÍLIA, ajude os nossos BEBÊS a realizar as atividades.Dê um lindo colorido em cada imagem. Usem a criatividade e caprichem ! </h3> 
+    <h2 class="mb-4">Vídeo Aula semanal </h2>
       <h3 class=mb-4> Educação Infantil</h3>
       <h3 class=mb-4> Berçário I & II </h3>
 
@@ -310,6 +312,81 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Vídeo aula 10(Cores)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/_lCFJFzkDPE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 11</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/TQ7Epb0sheM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="row">
+      <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+      <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+        <h2 class="mb-4">Tarefa semanal 05 - 27/abril até 01/maio</h2>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Berçário I & II</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+
+      </div>
+      <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/berçario/semana5/img1.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana5/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/berçario/semana5/img2.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana5/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/berçario/semana5/img3.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana5/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/berçario/semana5/img4.jpg" download> <img class="img-fluid"
+          src="./images/berçario/semana5/img4.jpg" alt=""></a>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/berçario/semana5/img5.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana5/img5.jpg" alt=""></a>
+      </div>
+    </div>
+  </div>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
@@ -345,18 +422,18 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
   <div class="container">
     <div class="row">
       <div class="col-sm">
-        <a href="./images/infantil2/semana4/img1.jpg" download> <img class="img-fluid"
-            src="./images/infantil2/semana4/img1.jpg" alt=""></a>
+        <a href="./images/berçario/semana4/img1.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana4/img1.jpg" alt=""></a>
       </div>
       <div class="col-sm">
-        <a href="./images/infantil2/semana4/img2.jpg" download> <img class="img-fluid"
-            src="./images/infantil2/semana4/img2.jpg" alt=""></a>
+        <a href="./images/berçario/semana4/img2.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana4/img2.jpg" alt=""></a>
       </div>
     </div>
     <div class="row">
       <div class="col-sm">
-        <a href="./images/infantil2/semana4/img3.jpg" download> <img class="img-fluid"
-            src="./images/infantil2/semana4/img3.jpg" alt=""></a>
+        <a href="./images/berçario/semana4/img3.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana4/img3.jpg" alt=""></a>
       </div>
     </div>
   </div>
@@ -525,6 +602,72 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 10(Cores)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/_lCFJFzkDPE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 11</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/TQ7Epb0sheM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="row">
+      <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+      <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+        <h2 class="mb-4">Tarefa semanal 05 - 27/abril até 01/maio</h2>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil II (2 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+
+      </div>
+      <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana5/img1.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana5/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana5/img2.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana5/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana5/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana5/img3.jpg" alt=""></a>
+      </div>
+    </div>
+  </div>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
@@ -903,6 +1046,88 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 10(Cores)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/_lCFJFzkDPE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 11</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/TQ7Epb0sheM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="row">
+    <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+    <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+      <h2 class="mb-4">Tarefa semanal 05 - 27/abril até 01/maio</h2>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil III (3 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+    <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+  </div>
+</div>
+</section>
+
+
+<section>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana5/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil3/semana5/img1.jpg" alt="">
+      </a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana5/img2.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana5/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana5/img3.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana5/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana5/img4.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana5/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana5/img5.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana5/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana5/img6.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana5/img6.jpg" alt=""></a>
+    </div>
+  </div>
+</div>
+</section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
@@ -1331,6 +1556,127 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 12(Linguagem 01)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/wKKwF1W3P48" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 13(Linguagem 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/1g8YEjuSFJI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 14(Linguagem 03)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/H2cmtl3DKZQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 15(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/8fL_nszEnsE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 16(Natureza e Sociedade)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/_RSetW3zB2I" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="row">
+      <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+      <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+        <h2 class="mb-4">Tarefa semanal 05 - 27/abril até 01/maio</h2>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil IV (4 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+      </div>
+      <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+    </div>
+  </div>
+</section>
+
+
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana5/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil4/semana5/img1.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana5/img2.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana5/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana5/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana5/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana5/img4.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana5/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana5/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana5/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana5/img6.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana5/img6.jpg" alt=""></a>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana5/img7.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana5/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana5/img8.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana5/img8.jpg" alt=""></a>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana5/img9.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana5/img9.jpg" alt=""></a>
+      </div>
+    </div>
+  </div>
+</section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
@@ -1787,6 +2133,85 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
       </div>
     </div> -->
     <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+      <h2 class="mb-4">Tarefa semanal 05 - 27/abril até 01/maio</h2>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil V (5 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+    <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+  </div>
+</div>
+</section>
+
+<section>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana5/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana5/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana5/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana5/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana5/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana5/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana5/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana5/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana5/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana5/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana5/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana5/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana5/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana5/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana5/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana5/img8.jpg" alt=""></a>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana5/img9.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana5/img9.jpg" alt=""></a>
+    </div>
+  </div>
+</div>
+</section>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="row">
+    <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+    <div class="col-md-7 wrap-about py-5 pr-md-4 ">
       <h2 class="mb-4">Tarefa semanal 04 - 20/abril até 24/abril</h2>
       <h3 class=mb-4> Educação Infantil</h3>
       <h3 class=mb-4> Turma Infantil V (5 anos)</h3>
@@ -2208,6 +2633,22 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/xc7pfDXh_no" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 06(Português)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/sx70do3F7MY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 07(Ciências)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/Lf7SRGwnfBc" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -2706,6 +3147,71 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 09(Ciências)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/Hqkndg6IQC4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 10(Geografia)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/t3xiWYDb8tU" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+<h3> Vídeo aula 11(Geografia 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/sTFU3VhupUI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 12(História)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/5NDgpXGBJ4g" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 13(História 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/clkpTq5Xwz8" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 14(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/4reGtnzDddw" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 15(Português)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/gAstseeFbRI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 16(Ciências)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/FAWZvCLHzGM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
@@ -3232,6 +3738,61 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/xc7pfDXh_no" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 12(Matemática 01)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/PF9qlpR8Xfs" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 13(Matemática 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/e0lHWt7rA3c" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+<h3> Vídeo aula 14(Matemática 03)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/XVU4ABRXqbM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 15(Ciências)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/Y1er3OsM1Ds" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 16(Geografia 01)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/rPoGwHpBIyk" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 17(Geografia 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/Koyq2BILmSU" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 18(Português)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/_6b9lINqi6E" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
@@ -3808,6 +4369,61 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/xc7pfDXh_no" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 12(Matemática 01)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/PF9qlpR8Xfs" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 13(Matemática 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/e0lHWt7rA3c" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+<h3> Vídeo aula 14(Matemática 03)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/XVU4ABRXqbM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 15(Ciências)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/Y1er3OsM1Ds" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 16(Geografia 01)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/rPoGwHpBIyk" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 17(Geografia 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/Koyq2BILmSU" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 18(Português)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/_6b9lINqi6E" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
