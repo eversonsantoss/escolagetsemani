@@ -328,6 +328,22 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Vídeo aula 12(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/o3pxCTaG8gE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 13(Vogais)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/BqcQ4-sugEQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
     <div class="row">
@@ -616,6 +632,22 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="969" height="480" src="https://www.youtube.com/embed/TQ7Epb0sheM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 12(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/o3pxCTaG8gE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 13(Vogais)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/BqcQ4-sugEQ" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -1060,6 +1092,22 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="969" height="480" src="https://www.youtube.com/embed/TQ7Epb0sheM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 12(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/o3pxCTaG8gE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 13(Vogais)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/BqcQ4-sugEQ" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -1598,6 +1646,46 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Vídeo aula 17(matemática 01)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/33RAgkjRjuQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 18(matemática 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/jdytXi1OWIM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 19(matemática 03)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/RVuqttcNdSk" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 20(Artes)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/8C-h6bhLXJE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 21(Recreação)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/PW2uJX9Vt9Y" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
     <div class="row">
@@ -2118,6 +2206,47 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/vHfv2bkL3M0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
+<h3> Vídeo aula 11(matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/33RAgkjRjuQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 12(Linguagem)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/YkmuI-wytEo" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 13(matemática 01)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/jdytXi1OWIM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 14(matemática 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/RVuqttcNdSk" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 15(linguagem)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/bYzHyc1o0Lg" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -2650,6 +2779,30 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="969" height="480" src="https://www.youtube.com/embed/Lf7SRGwnfBc" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 08(Geografia)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/ueLyUIQ9OkA" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 09(Ciências)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UJbS-pexPNI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 10(História)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/72WxcYXv9DU" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -3208,6 +3361,22 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="969" height="480" src="https://www.youtube.com/embed/FAWZvCLHzGM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 17(Geografia)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/zsuGwcOO0jE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 18(História)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/nlTt_LOSWoA" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -3794,6 +3963,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="969" height="480" src="https://www.youtube.com/embed/_6b9lINqi6E" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 19(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/7n5osyRSsr8" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
@@ -4425,6 +4602,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="969" height="480" src="https://www.youtube.com/embed/_6b9lINqi6E" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 19(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/7n5osyRSsr8" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
