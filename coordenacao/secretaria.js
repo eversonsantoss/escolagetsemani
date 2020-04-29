@@ -1646,31 +1646,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
-<h3> Vídeo aula 17(matemática 01)</h3>
-<div class="video-container">
-
-<iframe width="969" height="480" src="https://www.youtube.com/embed/33RAgkjRjuQ" frameborder="0"
- allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-<h3> Vídeo aula 18(matemática 02)</h3>
-<div class="video-container">
-
-<iframe width="969" height="480" src="https://www.youtube.com/embed/jdytXi1OWIM" frameborder="0"
- allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-<h3> Vídeo aula 19(matemática 03)</h3>
-<div class="video-container">
-
-<iframe width="969" height="480" src="https://www.youtube.com/embed/RVuqttcNdSk" frameborder="0"
- allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-<h3> Vídeo aula 20(Artes)</h3>
+<h3> Vídeo aula 17(Artes)</h3>
 <div class="video-container">
 
 <iframe width="969" height="480" src="https://www.youtube.com/embed/8C-h6bhLXJE" frameborder="0"
@@ -1678,13 +1654,39 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
-<h3> Vídeo aula 21(Recreação)</h3>
+<h3> Vídeo aula 18(Recreação)</h3>
 <div class="video-container">
 
 <iframe width="969" height="480" src="https://www.youtube.com/embed/PW2uJX9Vt9Y" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 19(matemática 01)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/33RAgkjRjuQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 20(matemática 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/jdytXi1OWIM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 21(matemática 03)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/RVuqttcNdSk" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
