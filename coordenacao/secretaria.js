@@ -529,6 +529,15 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
       </div>
     </div> -->
     <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+    <h2 class="mb-4">Trabalho Dirigido: </h2>
+    <h4 class=mb-4> Segue disponível para download o trabalho dirigido.</h4>
+ <ul>
+    <li><a class="Trabalho-dirigido" href="./images/infantil2/semana6/2anos.docx">Trabalho Dirigido </a></li>
+    
+</ul>
+</div>
+
+    <div class="col-md-7 wrap-about py-5 pr-md-4 ">
       <h2 class="mb-4">Vídeo Aula semanal </h2>
       <h3 class=mb-4> Educação Infantil</h3>
       <h3 class=mb-4> Turma Infantil II (2 anos)</h3>
@@ -4787,6 +4796,20 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
         <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
       </div>
     </div> -->
+
+    <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+    <h2 class="mb-4">Trabalho Dirigido: </h2>
+    <h4 class=mb-4> Segue disponível para download os trabalhos dirigidos por matéria.</h4>
+ <ul>
+    <li><a class="Trabalho-dirigido" href="./images/infantil9/semana6/portugues4ano.docx">Trabalho Dirigido Português</a></li>
+    <li><a class="Trabalho-dirigido" href="./images/infantil9/semana6/matematica4ano.docx">Trabalho Dirigido Matemática</a></li>
+    <li><a class="Trabalho-dirigido" href="./images/infantil9/semana6/historia4ano.docx">Trabalho Dirigido História</a></li>
+    <li><a class="Trabalho-dirigido" href="./images/infantil9/semana6/geografia4ano.docx">Trabalho Dirigido Geografia</a></li>
+    <li><a class="Trabalho-dirigido" href="./images/infantil9/semana6/ciencia4ano.docx">Trabalho Dirigido Ciências</a></li>
+    
+</ul>
+</div>
+
     <div class="col-md-7 wrap-about py-5 pr-md-4 ">
       <h2 class="mb-4">Vídeo Aula semanal </h2>
       <h3 class=mb-4> Ensino Fundamental</h3>
