@@ -240,6 +240,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+<h3> Alimentação saudável</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UxGUsbzciP0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <h3> Vídeo aula 01</h3>
 <div class="video-container">
 
@@ -366,6 +374,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/YoWEaJ-N5EM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 17</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/HdyDh9T_MZ0" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -780,6 +796,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Alimentação saudável</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UxGUsbzciP0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <h3> Vídeo aula 01</h3>
 <div class="video-container">
 
@@ -905,6 +929,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/YoWEaJ-N5EM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 17</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/HdyDh9T_MZ0" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -1421,6 +1453,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Alimentação saudável</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UxGUsbzciP0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <h3> Vídeo aula 01</h3>
 <div class="video-container">
 
@@ -1547,6 +1587,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/YoWEaJ-N5EM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 17</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/HdyDh9T_MZ0" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -2132,6 +2180,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
   <iframe width="1311" height="480" src="https://www.youtube.com/embed/kZvow_QvuJo" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Alimentação saudável</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UxGUsbzciP0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
@@ -2985,6 +3041,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Alimentação saudável</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UxGUsbzciP0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <h3> Vídeo aula 01</h3>
 <div class="video-container">
 
@@ -3121,6 +3185,22 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/xbSuEay2c8Q" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 19 (linguagem J)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/4nHrLDkH6QI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 20 (Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/WHaD0zLjojk" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -3818,6 +3898,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Alimentação saudável</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UxGUsbzciP0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <h3> Vídeo aula 01</h3>
 <div class="video-container">
 
@@ -3909,6 +3997,38 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/gIRUfFNoQCw" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 13(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/lf66TNNik_A" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 14(Português 01)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/mdkQfbpHjHU" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 15(Português 02)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/puXqEhVTNp8" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 16</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/gQOR1O7HLCs" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -4658,6 +4778,15 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Alimentação saudável</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UxGUsbzciP0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <h3> Vídeo aula 01</h3>
 <div class="video-container">
 
@@ -4829,6 +4958,30 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/xt1fHbD5ejk" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 23(Ciências)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/ut87aGiMDms" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 24(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/6d7okqDsQCU" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 25(História)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/7UcO347wwjE" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -5580,6 +5733,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Alimentação saudável</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UxGUsbzciP0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <h3> Vídeo aula 01(Português)</h3>
 <div class="video-container">
 
@@ -5744,6 +5905,22 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/Fhvqhj-OVmU" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 22(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/rTLGVTT8qX8" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 23(Português)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/ohwkxjNNcnY" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
@@ -6563,6 +6740,14 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Alimentação saudável</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/UxGUsbzciP0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 <h3> Vídeo aula 01(Português)</h3>
 <div class="video-container">
 
@@ -6727,6 +6912,22 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/Fhvqhj-OVmU" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 22(Matemática)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/rTLGVTT8qX8" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+</div>
+
+<h3> Vídeo aula 23(Português)</h3>
+<div class="video-container">
+
+<iframe width="969" height="480" src="https://www.youtube.com/embed/ohwkxjNNcnY" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
