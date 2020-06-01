@@ -531,7 +531,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
         <h2 class="mb-4">Tarefa semanal 10 - 01/junho até 05/junho</h2>
         <h3 class=mb-4> Educação Infantil</h3>
         <h3 class=mb-4> Turma Berçário I & II</h3>
-        <h3 class=mb-4> Mamãe e Papai, essa semana vamos está trabalhando com a Família.Vamos colorir cada desenho de forma especial. Imagino que vai ficar lindo! Caprichem!</h3>
+        <h3 class=mb-4> Mamãe e Papai, essa semana estaremos trabalhando com a Família.Vamos colorir cada desenho de forma especial. Imagino que vai ficar lindo! Caprichem!</h3>
         <p>Clique nas imagens para baixar a tarefa</p>
 
       </div>
