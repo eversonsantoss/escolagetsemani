@@ -507,6 +507,107 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Vídeo aula 34 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/8M1PPgE-HU4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="row">
+      <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+      <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+        <h2 class="mb-4">Tarefa semanal 10 - 01/junho até 05/junho</h2>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Berçário I & II</h3>
+        <h3 class=mb-4> Mamãe e Papai, essa semana vamos está trabalhando com a Família.Vamos colorir cada desenho de forma especial. Imagino que vai ficar lindo! Caprichem!</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+
+      </div>
+      <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/berçario/semana10/img1.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana10/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/berçario/semana10/img2.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana10/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/berçario/semana10/img3.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana10/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/berçario/semana10/img4.jpg" download> <img class="img-fluid"
+          src="./images/berçario/semana10/img4.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/berçario/semana10/img5.jpg" download> <img class="img-fluid"
+            src="./images/berçario/semana10/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/berçario/semana10/img6.jpg" download> <img class="img-fluid"
+          src="./images/berçario/semana10/img6.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana10/img7.jpg" download> <img class="img-fluid"
+          src="./images/berçario/semana10/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana10/img8.jpg" download> <img class="img-fluid"
+          src="./images/berçario/semana10/img8.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana10/img9.jpg" download> <img class="img-fluid"
+          src="./images/berçario/semana10/img9.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana10/img10.jpg" download> <img class="img-fluid"
+          src="./images/berçario/semana10/img10.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana10/img11.jpg" download> <img class="img-fluid"
+          src="./images/berçario/semana10/img11.jpg" alt=""></a>
+    </div>
+    </div>
+ </div>
+ </section>
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
     <div class="row">
@@ -1254,6 +1355,80 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 34 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/8M1PPgE-HU4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="row">
+      <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+      <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+        <h2 class="mb-4">Tarefa semanal 10 - 01/junho até 05/junho</h2>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil II (2 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+
+      </div>
+      <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana10/img1.jpeg" download> <img class="img-fluid"
+            src="./images/infantil2/semana10/img1.jpeg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana10/img2.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana10/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana10/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana10/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana10/img4.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana10/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana10/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana10/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana10/img6.jpeg" download> <img class="img-fluid"
+            src="./images/infantil2/semana10/img6.jpeg" alt=""></a>
+      </div>
+      </div>
+  </div>
+  </section>
+
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
@@ -2097,6 +2272,135 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 34 (Inglês 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/zxIpA5nF_LY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 35 (Inglês 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/SOYKj37k4eY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="row">
+    <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+    <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+      <h2 class="mb-4">Tarefa semanal 10 - 01/junho até 05/junho</h2>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil III (3 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+    <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+  </div>
+</div>
+</section>
+
+
+<section>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana10/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil3/semana10/img1.jpg" alt="">
+      </a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana10/img2.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana10/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana10/img3.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana10/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana10/img4.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana10/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana10/img5.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana10/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana10/img6.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana10/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil3/semana10/img7.jpg" download> <img class="img-fluid"
+        src="./images/infantil3/semana10/img7.jpg" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil3/semana10/img8.jpg" download> <img class="img-fluid"
+        src="./images/infantil3/semana10/img8.jpg" alt=""></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil3/semana10/img9.jpg" download> <img class="img-fluid"
+        src="./images/infantil3/semana10/img9.jpg" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil3/semana10/img10.jpg" download> <img class="img-fluid"
+        src="./images/infantil3/semana10/img10.jpg" alt=""></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil3/semana10/img11.jpg" download> <img class="img-fluid"
+        src="./images/infantil3/semana10/img11.jpg" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil3/semana10/img12.jpg" download> <img class="img-fluid"
+        src="./images/infantil3/semana10/img12.jpg" alt=""></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil3/semana10/img13.png" download> <img class="img-fluid"
+        src="./images/infantil3/semana10/img13.png" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil3/semana10/img14.jpg" download> <img class="img-fluid"
+        src="./images/infantil3/semana10/img14.jpg" alt=""></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil3/semana10/img15.jpeg" download> <img class="img-fluid"
+        src="./images/infantil3/semana10/img15.jpeg" alt=""></a>
+  </div>
+</div>
+</div>
+</section>
+
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
@@ -3019,6 +3323,140 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 33 (Inglês 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/zxIpA5nF_LY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 34 (Inglês 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/SOYKj37k4eY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="row">
+      <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+      <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+        <h2 class="mb-4">Tarefa semanal 10 - 01/junho até 05/junho</h2>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil IV (4 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+      </div>
+      <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+    </div>
+  </div>
+</section>
+
+
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana10/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil4/semana10/img1.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana10/img2.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana10/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana10/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana10/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana10/img4.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana10/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana10/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana10/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana10/img6.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana10/img6.jpg" alt=""></a>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana10/img7.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana10/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil4/semana10/img8.jpg" download> <img class="img-fluid"
+          src="./images/infantil4/semana10/img8.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil4/semana10/img9.jpg" download> <img class="img-fluid"
+          src="./images/infantil4/semana10/img9.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+    <a href="./images/infantil4/semana10/img10.jpg" download> <img class="img-fluid"
+        src="./images/infantil4/semana10/img10.jpg" alt=""></a>
+  </div>
+  </div>
+  <div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil4/semana10/img11.jpg" download> <img class="img-fluid"
+        src="./images/infantil4/semana10/img11.jpg" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil4/semana10/img12.jpg" download> <img class="img-fluid"
+        src="./images/infantil4/semana10/img12.jpg" alt=""></a>
+  </div>
+  </div>
+  <div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil4/semana10/img13.jpg" download> <img class="img-fluid"
+        src="./images/infantil4/semana10/img13.jpg" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil4/semana10/img14.png" download> <img class="img-fluid"
+        src="./images/infantil4/semana10/img14.png" alt=""></a>
+  </div>
+  </div>
+  <div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil4/semana10/img15.jpg" download> <img class="img-fluid"
+        src="./images/infantil4/semana10/img15.jpg" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil4/semana10/img16.jpeg" download> <img class="img-fluid"
+        src="./images/infantil4/semana10/img16.jpeg" alt=""></a>
+  </div>
+  </div>
+</div>
+</section>
+
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
@@ -3958,6 +4396,121 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+<h3> Vídeo aula 29 (Inglês 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/zxIpA5nF_LY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+<h3> Vídeo aula 30 (Inglês 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/JITMUb6OAzw" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 31 (Inglês 03)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/SOYKj37k4eY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="row">
+    <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+    <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+      <h2 class="mb-4">Tarefa semanal 10 - 01/junho até 05/junho</h2>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil V (5 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+    <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+  </div>
+</div>
+</section>
+
+<section>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana10/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana10/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana10/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana10/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana10/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana10/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana10/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana10/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana10/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana10/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana10/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana10/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana10/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana10/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana10/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana10/img8.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil5/semana10/img9.png" download><img class="img-fluid"
+        src="./images/infantil5/semana10/img9.png" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil5/semana10/img10.jpg" download><img class="img-fluid"
+        src="./images/infantil5/semana10/img10.jpg" alt=""></a>
+  </div>
+</div>
+<div class="row">
+<div class="col-sm">
+  <a href="./images/infantil5/semana10/img11.jpeg" download><img class="img-fluid"
+      src="./images/infantil5/semana10/img11.jpeg" alt=""></a>
+</div>
+</div>
+</div>
+</section>
+
+
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
@@ -4941,6 +5494,136 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 26 (Inglês 01) </h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/fpd0aWJIGnI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<h3> Vídeo aula 27 (Inglês 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/psGogkmA7GM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="row">
+      <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+      <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+        <h2 class="mb-4">Tarefa semanal 10 (Semana de Revisão) - 01/junho até 05/junho</h2>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 1º ano (6 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+      </div>
+      <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img1.png" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img1.png" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img2.png" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img2.png" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img3.png" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img3.png" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img4.png" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img4.png" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img5.jpeg" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img5.jpeg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img6.jpeg" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img6.jpeg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img7.png" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img7.png" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img8.png" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img8.png" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img9.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img9.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil6/semana10/img10.jpg" download><img class="img-fluid"
+          src="./images/infantil6/semana10/img10.jpg" alt=""></a>
+      </div>
+      </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img11.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img11.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil6/semana10/img12.png" download><img class="img-fluid"
+          src="./images/infantil6/semana10/img12.png" alt=""></a>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img13.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img13.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img14.png" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img14.png" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img15.png" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img15.png" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana10/img16.jpeg" download><img class="img-fluid"
+            src="./images/infantil6/semana10/img16.jpeg" alt=""></a>
+      </div>
+    </div>
+  </div>
+</section>
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -6068,6 +6751,120 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 </div>
 
+<h3> Vídeo aula 36 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/erOw4byT1X0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="row">
+    <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+    <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+      <h2 class="mb-4">Tarefa semanal 10 (Semana de Revisão) - 01/junho até 05/junho</h2>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 2º ano (7 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+    <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+  </div>
+</div>
+</section>
+
+
+<section>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img1.png" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img1.png" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img2.jpeg" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img2.jpeg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img4.png" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img4.png" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img5.png" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img5.png" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img7.jpeg" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img7.jpeg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img8.png" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img8.png" alt=""></a>
+    </div>
+ </div>
+ <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img9.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img9.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img10.png" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img10.png" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img11.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img11.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img12.png" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img12.png" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img13.jpeg" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img13.jpeg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana10/img14.png" download><img class="img-fluid"
+          src="./images/infantil7/semana10/img14.png" alt=""></a>
+    </div>
+  </div>
+</div>
+</section>
+
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
   <div class="row">
@@ -7173,6 +7970,38 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 34 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/U9ZIoNsGb-k" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section>
+<div>
+<h2 class="mb-4">Tarefa semanal 10 (Semana de Revisão) - 01/junho até 05/junho </h2>
+        <h3 class="mb-4"> Ensino Fundamental </h3>
+        <h3 class="mb-4"> 3º ano (8 anos) </h3>
+        <p class="mb-4"> clique no link para baixar a tarefa </p>
+        <ul>
+            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana10/portugues.docx">Revisão de Português</a></li>
+            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana10/matematica.docx">Revisão de Matemática</a></li>
+            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana10/geografia.docx">Revisão de Geografia</a></li>
+            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana10/historia.docx">Revisão de História</a></li>
+            
+        </ul>
+        </div>
+        <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <a href="./images/infantil8/semana10/img1.jpeg" download><img class="img-fluid"
+                src="./images/infantil8/semana10/img1.jpeg" alt=""></a>
+          </div>
+          </div>
+          </div>
+        </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
@@ -8352,6 +9181,94 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+<h3> Vídeo aula 34 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/U9ZIoNsGb-k" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="row">
+    <!-- <div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+      <div class="text px-4 ">
+        <h2 class="mb-4">Bem vindo ao Colégio Jardim Getsêmani</h2>
+        <p>Texto.</p>
+        <p>Texto.</p>
+        <p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+      </div>
+    </div> -->
+    <div class="col-md-7 wrap-about py-5 pr-md-4 ">
+      <h2 class="mb-4">Tarefa semanal 10 (Semana de Revisão) - 01/junho até 05/junho</h2>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 4º ano (9 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+    <!-- <div class="col-md-3 ">
+      <a href="images/image_4.jpg" class="gallery image-popup img d-flex align-items-center"
+        style="background-image: url(images/image_4.jpg);">
+        <div class="icon mb-4 d-flex align-items-center justify-content-center">
+          <span class="icon-instagram"></span>
+        </div>
+      </a>
+    </div> -->
+  </div>
+</div>
+</section>
+
+<section>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana10/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana10/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana10/img2.jpeg" download><img class="img-fluid"
+          src="./images/infantil9/semana10/img2.jpeg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana10/img3.png" download><img class="img-fluid"
+          src="./images/infantil9/semana10/img3.png" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana10/img4.png" download><img class="img-fluid"
+          src="./images/infantil9/semana10/img4.png" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana10/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana10/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana10/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana10/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana10/img7.png" download><img class="img-fluid"
+          src="./images/infantil9/semana10/img7.png" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana10/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana10/img8.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana10/img9.png" download><img class="img-fluid"
+          src="./images/infantil9/semana10/img9.png" alt=""></a>
+    </div>
+  </div>
+</div>
+</section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
