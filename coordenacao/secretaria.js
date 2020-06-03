@@ -8215,6 +8215,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
             <li><a class="lista-sugestoes" href="./images/./infantil8/./semana10/matematica.docx">Revisão de Matemática</a></li>
             <li><a class="lista-sugestoes" href="./images/./infantil8/./semana10/geografia.docx">Revisão de Geografia</a></li>
             <li><a class="lista-sugestoes" href="./images/./infantil8/./semana10/historia.docx">Revisão de História</a></li>
+            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana10/ciencias.pdf">Revisão de Ciências</a></li>
+
             
         </ul>
         </div>
