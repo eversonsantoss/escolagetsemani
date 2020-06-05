@@ -9685,3 +9685,8 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    .informativo{
+      background-color: #F3F3F4;
+      padding: 60px;
+      }
