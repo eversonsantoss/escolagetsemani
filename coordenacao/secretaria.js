@@ -1,4 +1,4 @@
-var alunos = '1';
+var alunos = 'EJGCHAVES';
 
 function validar() {
   console.log('teste');
