@@ -773,6 +773,114 @@ var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: 
 </div>
 </div>
 </div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 49</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/G7heuhSN6Xg" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 50</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/DWQpT_zf0Ko" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 51</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/wpwPfwWlNvQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 52</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/EQYnz-XQTV0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 53</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/h7omlARyOaQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 54</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/I4oXP620Its" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 55</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/hpzAFtmLZUE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 56</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/38ozy7ItGik" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 57</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/3Gf90NZAIzw" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
 </section>
 
 
@@ -1832,6 +1940,114 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/r-s886UJLlQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 49</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/G7heuhSN6Xg" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 50</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/DWQpT_zf0Ko" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 51</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/wpwPfwWlNvQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 52</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/EQYnz-XQTV0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 53</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/h7omlARyOaQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 54</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/I4oXP620Its" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 55</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/hpzAFtmLZUE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 56</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/38ozy7ItGik" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 57</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/3Gf90NZAIzw" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -2965,6 +3181,114 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/r-s886UJLlQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 50</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/G7heuhSN6Xg" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 51</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/DWQpT_zf0Ko" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 52</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/wpwPfwWlNvQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 53</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/EQYnz-XQTV0" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 54</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/h7omlARyOaQ" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 55</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/I4oXP620Its" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 56</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/hpzAFtmLZUE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 57</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/38ozy7ItGik" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 58</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/3Gf90NZAIzw" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
@@ -4138,6 +4462,78 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 41 (linguagem)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/5hSIC4zflGw" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 42 (linguagem C)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/yDMYTkMIunA" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 43 (linguagem)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/WNbTsIM1SNo" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 44 (Matemática 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/TanlOCJpiHk" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 45 (Matemática 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/3pqgwrB0QmI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 46 (Matemática 03)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/t9T_IgPKtbM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
 </section>
 
 
@@ -5264,6 +5660,78 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/SOYKj37k4eY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 32 (Linguagem 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/WbSF1BoA7g4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 33 (Linguagem 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/_MpVddf5rQs" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 34 (Linguagem 03)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/qMdqzJlGLKY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 35 (Matemática 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/Jrjww9Sj9lg" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 36 (Matemática 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/IpQqnXpQEbI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 37 (Matemática 03)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/nEjxqhFAopY" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
