@@ -1,0 +1,42 @@
+.banner{
+    display: flex;
+    position: initial;
+    background-position: initial;
+}
+.color {
+    background-color: white;
+    padding: 60px;
+}
+.color1{
+    background-color: lightblue;
+    padding: 60px;
+}
+.color2{
+    background-color: lightgreen;
+    padding: 60px;
+}
+
+.color3{
+    background-color: lightcoral;
+    padding: 60px;
+}
+
+.livros-img img{
+    border: solid red;
+  
+   height: 100%;
+   width: 100%;
+   
+}
+    .marge{
+        height: 100%;
+        width: 100%;
+        padding: 30px;
+    }
+
+
+.leitura{
+    height: 100%;
+    display: inline-flex;
+    height: 100%;
+}

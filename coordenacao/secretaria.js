@@ -182,7 +182,7 @@ function getTurma(turma) {
 }
 
 var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
-<div class="overlay"></div>
+
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
     <div class="col-md-9  text-center">
@@ -881,6 +881,69 @@ var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: 
 </div>
 </div>
 </div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 58</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/dLOuEl46j2M" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 59</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/HoKuXo7tY1A" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 60</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/AwvPK2sFzQo" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+<div class="container">
+      <div class="text-center">
+      
+      <h1 class="color">(Provinha Infantil)<h1>
+        <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
+        <h3 class=mb-4>Educação Infantil</h3>
+        <h3 class=mb-4> Berçário I e II </h3>
+        <p>Clique no link para baixar a prova</p>
+      
+      </div>
+   
+
+  <div>
+        <ul>
+            <li><a class="lista-sugestoes" href="./images/./berçario/./semana12/berçario.pdf">Provinha</a></li>
+               
+        </ul>
+        </div>
+        </div>
+        </div>
 </section>
 
 
@@ -1374,7 +1437,7 @@ var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: 
 
 var turma2 = `<section class="hero-wrap hero-wrap-2"
 style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
-<div class="overlay"></div>
+
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
     <div class="col-md-9  text-center">
@@ -2053,7 +2116,70 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 58</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/dLOuEl46j2M" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 59</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/HoKuXo7tY1A" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 60</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/AwvPK2sFzQo" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
 </section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+<div class="container">
+      <div class="text-center">
+      
+      <h1 class="color">(Provinha Infantil)<h1>
+        <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
+        <h3 class=mb-4>Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil II (2 anos) </h3>
+        <p>Clique no link para baixar a prova</p>
+      
+      </div>
+   
+
+  <div>
+        <ul>
+            <li><a class="lista-sugestoes" href="./images/./infantil2/./semana12/infantil2.pdf">Provinha</a></li>
+               
+        </ul>
+        </div>
+        </div>
+        </div>
+</section>
+
 
 
 
@@ -2561,7 +2687,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 var turma3 = `<section class="hero-wrap hero-wrap-2"
 style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
-<div class="overlay"></div>
+
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
     <div class="col-md-9  text-center">
@@ -3294,6 +3420,67 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 59</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/dLOuEl46j2M" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 60</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/HoKuXo7tY1A" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 61</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/AwvPK2sFzQo" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+<div class="container">
+      <div class="text-center">
+      
+      <h1 class="color">(Provinha Infantil)<h1>
+        <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
+        <h3 class=mb-4>Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil III (3 anos) </h3>
+        <p>Clique no link para baixar a prova</p>
+      
+      </div>
+   
+
+  <div>
+        <ul>
+            <li><a class="lista-sugestoes" href="./images/./infantil3/./semana12/infantil3.pdf">Provinha</a></li>
+               
+        </ul>
+        </div>
+        </div>
+        </div>
 </section>
 
 
@@ -3945,7 +4132,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 var turma4 = `  <section class="hero-wrap hero-wrap-2"
 style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
-<div class="overlay"></div>
+
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
     <div class="col-md-9  text-center">
@@ -4534,7 +4721,58 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 47 (Linguagem)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/_pIWd0JtokA" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 45 (Matemática)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/jkV1iLMrRv4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
 </section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+<div class="container">
+      <div class="text-center">
+      
+      <h1 class="color">(Provinha Infantil)<h1>
+        <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
+        <h3 class=mb-4>Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil IV (4 anos) </h3>
+        <p>Clique no link para baixar a prova</p>
+      
+      </div>
+   
+
+  <div>
+        <ul>
+            <li><a class="lista-sugestoes" href="./images/./infantil4/./semana12/infantil4.pdf">Provinha</a></li>
+               
+        </ul>
+        </div>
+        </div>
+        </div>
+</section>
+
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -5254,7 +5492,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 var turma5 = `  <section class="hero-wrap hero-wrap-2"
 style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
-<div class="overlay"></div>
+
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
     <div class="col-md-9  text-center">
@@ -5737,6 +5975,30 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 38 (Linguagem)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/Pk_8qsFcIO8" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 39 (Matemática)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/1ekvZG3veAM" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
 </section>
 
 
@@ -5809,6 +6071,33 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+<div class="container">
+      <div class="text-center">
+      
+      <h1 class="color">(Provinha Infantil)<h1>
+        <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
+        <h3 class=mb-4>Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil V (5 anos) </h3>
+        <p>Clique no link para baixar a prova</p>
+      
+      </div>
+   
+
+  <div>
+        <ul>
+            <li><a class="lista-sugestoes" href="./images/./infantil5/./semana12/infantil5.pdf">Provinha</a></li>
+               
+        </ul>
+        </div>
+        </div>
+        </div>
+</section>
+
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -6496,7 +6785,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 var turma6 = ` <section class="hero-wrap hero-wrap-2"
 style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
-<div class="overlay"></div>
+
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
     <div class="col-md-9  text-center">
@@ -7100,31 +7389,93 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 
 
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 1º ano (6 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     
+    </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana12/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana12/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana12/img2.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana12/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana12/img3.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana12/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana12/img4.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana12/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana12/img5.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana12/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana12/img6.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana12/img6.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana12/img7.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana12/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana12/img8.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana12/img8.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana12/img9.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana12/img9.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil6/semana12/img10.jpg" download><img class="img-fluid"
+          src="./images/infantil6/semana12/img10.jpg" alt=""></a>
+      </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="prova"
 <div class="container">
       <div class="text-center">
       
-      <h1 class="color">(Semana de Provas)<h1>
-        <h2 class="mb-4">Tarefa semanal 11 - 08/junho até 15/junho</h2>
+     
+        <h1 class="mb-4">Tarefa semanal 11 - 08/junho até 15/junho</h1>
         <h3 class=mb-4> Ensino Fundamental</h3>
         <h3 class=mb-4> 1º ano (6 anos)</h3>
-        <p>Clique no link para baixar a prova</p>
+        <h1 class="color">(Semana de Provas)<h1>
       
       </div>
    
 
-  <div>
-        <ul>
-            <li><a class="lista-sugestoes" href="./images/./infantil6/./semana11/portugues.docx">Prova de Português</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil6/./semana11/matematica.docx">Prova de Matemática</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil6/./semana11/geografia.docx">Prova de Geografia</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil6/./semana11/historia.docx">Prova de História</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil6/./semana11/ciencias.docx">Prova de Ciências</a></li>
 
-            
-        </ul>
-        </div>
         </div>
         </div>
 </section>
@@ -7895,7 +8246,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 var turma7 = `<section class="hero-wrap hero-wrap-2"
 style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
-<div class="overlay"></div>
+
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
     <div class="col-md-9  text-center">
@@ -8488,30 +8839,102 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+    
+      <h1 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h1>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 2º ano (7 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    
+  </div>
+</div>
+</section>
+
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img8.jpg" alt=""></a>
+    </div>
+ </div>
+ <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img9.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img9.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img10.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img10.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img11.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img11.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana12/img12.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana12/img12.jpg" alt=""></a>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="prova"
 <div class="container">
       <div class="text-center">
       
-      <h1 class="color">(Semana de Provas)<h1>
-        <h2 class="mb-4">Tarefa semanal 11 - 08/junho até 15/junho</h2>
+     
+        <h1 class="mb-4">Tarefa semanal 11 - 08/junho até 15/junho</h1>
         <h3 class=mb-4> Ensino Fundamental</h3>
         <h3 class=mb-4> 2º ano (7 anos)</h3>
-        <p>Clique no link para baixar a prova</p>
-      
+        <h1 class="color">(Semana de Provas)<h1>
       </div>
    
 
-  <div>
-        <ul>
-            <li><a class="lista-sugestoes" href="./images/./infantil7/./semana11/portugues.docx">Prova de Português</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil7/./semana11/matematica.docx">Prova de Matemática</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil7/./semana11/geografia.docx">Prova de Geografia</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil7/./semana11/historia.docx">Prova de História</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil7/./semana11/ciencias.docx">Prova de Ciências</a></li>
-
-            
-        </ul>
-        </div>
+ 
         </div>
         </div>
 </section>
@@ -9272,7 +9695,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 var turma8 = ` <section class="hero-wrap hero-wrap-2"
 style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
-<div class="overlay"></div>
+
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
     <div class="col-md-9  text-center">
@@ -9805,31 +10228,92 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 </section>
 
 
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 3º ano (8 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     
+    </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img2.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img3.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img4.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img5.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img6.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img6.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img7.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img8.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img8.jpg" alt=""></a>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img9.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img9.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana12/img10.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana12/img10.jpg" alt=""></a>
+      </div>
+    </div>
+      </div>
+  </div>
+  </div>
+</section>
+
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="prova"
 <div class="container">
       <div class="text-center">
       
-      <h1 class="color">(Semana de Provas)<h1>
-        <h2 class="mb-4">Tarefa semanal 11 - 08/junho até 15/junho</h2>
+      
+        <h1 class="mb-4">Tarefa semanal 11 - 08/junho até 15/junho</h1>
         <h3 class=mb-4> Ensino Fundamental</h3>
         <h3 class=mb-4> 3º ano (8 anos)</h3>
-        <p>Clique no link para baixar a prova</p>
+        <h1 class="color">(Semana de Provas)<h1>
       
       </div>
    
-
-  <div>
-        <ul>
-            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana11/portugues.docx">Prova de Português</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana11/matematica.docx">Prova de Matemática</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana11/geografia.docx">Prova de Geografia</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana11/historia.docx">Prova de História</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil8/./semana11/ciencias.docx">Prova de Ciências</a></li>
-
-            
-        </ul>
-        </div>
         </div>
         </div>
 </section>
@@ -9882,7 +10366,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
   <div class="container">
     <div class="row">
       <div class="col-sm">
-        <a href="./images/infantil8/semana9/img1.jpgg" download><img class="img-fluid"
+        <a href="./images/infantil8/semana9/img1.jpg" download><img class="img-fluid"
             src="./images/infantil8/semana9/img1.jpg" alt=""></a>
       </div>
       <div class="col-sm">
@@ -10597,7 +11081,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 var turma9 = ` <section class="hero-wrap hero-wrap-2"
 style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
-<div class="overlay"></div>
+
 <div class="container">
   <div class="row no-gutters slider-text align-items-center justify-content-center">
     <div class="col-md-9  text-center">
@@ -11131,31 +11615,93 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 </section>
 
 
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+    
+      <h1 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h1>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 4º ano (9 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    
+  </div>
+</div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img8.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img9.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img9.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana1/img10.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana1/img10.jpg" alt=""></a>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="prova"
 <div class="container">
       <div class="text-center">
       
-      <h1 class="color">(Semana de Provas)<h1>
-        <h2 class="mb-4">Tarefa semanal 11 - 08/junho até 15/junho</h2>
+      
+        <h1 class="mb-4">Tarefa semanal 11 - 08/junho até 15/junho</h1>
         <h3 class=mb-4> Ensino Fundamental</h3>
         <h3 class=mb-4> 4º ano (9 anos)</h3>
-        <p>Clique no link para baixar a prova</p>
+        <h1 class="color">(Semana de Provas)<h1>
       
       </div>
    
-
-  <div>
-        <ul>
-            <li><a class="lista-sugestoes" href="./images/./infantil9/./semana11/portugues.docx">Prova de Português</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil9/./semana11/matematica.docx">Prova de Matemática</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil9/./semana11/geografia.docx">Prova de Geografia</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil9/./semana11/historia.docx">Prova de História</a></li>
-            <li><a class="lista-sugestoes" href="./images/./infantil9/./semana11/ciencias.docx">Prova de Ciências</a></li>
-
-            
-        </ul>
-        </div>
         </div>
         </div>
 </section>
