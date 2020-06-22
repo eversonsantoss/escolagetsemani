@@ -32,6 +32,7 @@ function validarTarefas() {
 
 }
 
+
 var datas = `<section class="hero-wrap hero-wrap-2"
 style="background-image: url('images/279359-saiba-como-sua-radio-pode-vender-mais-na-pascoa-636x363.jpg');">
 <div class="overlay"></div>
@@ -917,6 +918,18 @@ var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: 
 </div>
 </div>
 </div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 61 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/vaMNHbrT7z4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
 </section>
 
 
@@ -931,19 +944,20 @@ var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: 
         <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
         <h3 class=mb-4>Educação Infantil</h3>
         <h3 class=mb-4> Berçário I e II </h3>
-        <p>Clique no link para baixar a prova</p>
+        <p>Clique na imagem para baixar a prova</p>
       
       </div>
    
 
-  <div>
-        <ul>
-            <li><a class="lista-sugestoes" href="./images/./berçario/./semana12/berçario.pdf">Provinha</a></li>
-               
-        </ul>
+  <div class="text-center tarefas-img1">
+    <div class="row">
+        <div class="col-sm">
+            <a href="./images/berçario/semana12/berçario.pdf" download="download">
+            <img class="img-fluid" src="./images/provinha.jpg" alt=""></a>
         </div>
-        </div>
-        </div>
+     </div>
+   </div>
+        
 </section>
 
 
@@ -2152,7 +2166,89 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 61 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/vaMNHbrT7z4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
 </section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+     
+        <h1 class="mb-4">Tarefa semanal 13 <br> 22/junho até 28/junho</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil II (2 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img1.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img2.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img4.jpeg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img4.jpeg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img5.jpeg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img5.jpeg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img6.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img6.jpg" alt=""></a>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img7.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img8.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img8.jpg" alt=""></a>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img9.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img9.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana13/img10.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana13/img10.jpg" alt=""></a>
+      </div>
+      </div>
+  </div>
+  </div>
+  </section>
 
 
 
@@ -2165,19 +2261,20 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
         <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
         <h3 class=mb-4>Educação Infantil</h3>
         <h3 class=mb-4> Turma Infantil II (2 anos) </h3>
-        <p>Clique no link para baixar a prova</p>
+        <p>Clique na imagem para baixar a prova</p>
       
       </div>
    
 
-  <div>
-        <ul>
-            <li><a class="lista-sugestoes" href="./images/./infantil2/./semana12/infantil2.pdf">Provinha</a></li>
-               
-        </ul>
-        </div>
-        </div>
-        </div>
+      <div class="text-center tarefas-img1">
+      <div class="row">
+          <div class="col-sm">
+              <a href="./images/infantil2/semana12/infantil2.pdf" download="download">
+              <img class="img-fluid" src="./images/provinha.jpg" alt=""></a>
+          </div>
+       </div>
+     </div>
+          
 </section>
 
 
@@ -3456,7 +3553,82 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 62 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/2thOagG_Z1g" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
 </section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+      <h1 class="mb-4">Tarefa semanal 13<br> 22/junho até 28/junho</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil III (3 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+</div>
+</section>
+
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana13/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil3/semana13/img1.jpg" alt="">
+      </a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana13/img2.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana13/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana13/img3.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana13/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana13/img4.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana13/img4.jpg" alt=""></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana13/img5.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana13/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana13/img6.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana13/img6.jpg" alt=""></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana13/img7.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana13/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana13/img8.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana13/img8.jpg" alt=""></a>
+    </div>
+    </div>
+</div>
+</div>
+</div>
+</section>
+
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -3468,19 +3640,19 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
         <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
         <h3 class=mb-4>Educação Infantil</h3>
         <h3 class=mb-4> Turma Infantil III (3 anos) </h3>
-        <p>Clique no link para baixar a prova</p>
+        <p>Clique na imagem para baixar a prova</p>
       
       </div>
    
 
-  <div>
-        <ul>
-            <li><a class="lista-sugestoes" href="./images/./infantil3/./semana12/infantil3.pdf">Provinha</a></li>
-               
-        </ul>
-        </div>
-        </div>
-        </div>
+      <div class="text-center tarefas-img1">
+      <div class="row">
+          <div class="col-sm">
+              <a href="./images/infantil3/semana12/infantil3.pdf" download="download">
+              <img class="img-fluid" src="./images/provinha.jpg" alt=""></a>
+          </div>
+       </div>
+     </div>
 </section>
 
 
@@ -4736,13 +4908,106 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 <div class="video1">
 <div class="container">
-<h3 class="titulob"> Vídeo aula 45 (Matemática)</h3>
+<h3 class="titulob"> Vídeo aula 48 (Matemática)</h3>
 <div class="video-container">
 
 <iframe width="1311" height="480" src="https://www.youtube.com/embed/jkV1iLMrRv4" frameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+</div>
+</div>
+
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 49 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/m3ttKz627dY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 13<br>  22/junho até 28/junho</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil IV (4 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+      
+    </div>
+  </div>
+</section>
+
+
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana13/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil4/semana13/img1.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana13/img2.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana13/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana13/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana13/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana13/img4.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana13/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana13/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana13/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana13/img6.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana13/img6.jpg" alt=""></a>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana13/img7.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana13/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil4/semana13/img8.jpg" download> <img class="img-fluid"
+          src="./images/infantil4/semana13/img8.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil4/semana13/img9.jpg" download> <img class="img-fluid"
+          src="./images/infantil4/semana13/img9.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil4/semana13/img10.jpg" download> <img class="img-fluid"
+          src="./images/infantil4/semana13/img10.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil4/semana13/img11.jpg" download> <img class="img-fluid"
+          src="./images/infantil4/semana13/img11.jpg" alt=""></a>
+    </div>
+  </div>
 </div>
 </div>
 </section>
@@ -4758,19 +5023,19 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
         <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
         <h3 class=mb-4>Educação Infantil</h3>
         <h3 class=mb-4> Turma Infantil IV (4 anos) </h3>
-        <p>Clique no link para baixar a prova</p>
+        <p>Clique na imagem para baixar a prova</p>
       
       </div>
    
 
-  <div>
-        <ul>
-            <li><a class="lista-sugestoes" href="./images/./infantil4/./semana12/infantil4.pdf">Provinha</a></li>
-               
-        </ul>
-        </div>
-        </div>
-        </div>
+      <div class="text-center tarefas-img1">
+      <div class="row">
+          <div class="col-sm">
+              <a href="./images/infantil4/semana12/infantil4.pdf" download="download">
+              <img class="img-fluid" src="./images/provinha.jpg" alt=""></a>
+          </div>
+       </div>
+     </div>
 </section>
 
 
@@ -5999,6 +6264,115 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 40 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/8jdkqxbX58s" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+   
+      <h1 class="mb-4">Tarefa semanal 13<br>  22/junho até 28/junho</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil V (5 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+   
+  </div>
+</div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana13/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana13/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana13/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana13/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana13/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana13/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana13/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana13/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana13/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana13/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana13/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana13/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana13/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana13/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana13/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana13/img8.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil5/semana13/img9.jpg" download><img class="img-fluid"
+        src="./images/infantil5/semana13/img9.jpg" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil5/semana13/img10.jpg" download><img class="img-fluid"
+        src="./images/infantil5/semana13/img10.jpg" alt=""></a>
+  </div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+<div class="container">
+      <div class="text-center">
+      
+      <h1 class="color">(Provinha Infantil)<h1>
+        <h2 class="mb-4">Tarefa semanal 12 - 15/junho até 22/junho</h2>
+        <h3 class=mb-4>Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil V (5 anos) </h3>
+        <p>Clique na imagem para baixar a prova</p>
+      
+      </div>
+   
+
+      <div class="text-center tarefas-img1">
+      <div class="row">
+          <div class="col-sm">
+              <a href="./images/infantil5/semana12/infantil5.pdf" download="download">
+              <img class="img-fluid" src="./images/provinha.jpg" alt=""></a>
+          </div>
+       </div>
+     </div>
 </section>
 
 
@@ -7385,6 +7759,114 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 48 (Inglês) </h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/JPekA0GKiCw" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 49 (Matemática 01) </h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/og1lAiI15mI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 50 (Matemática 02) </h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/pEONlYeMt6o" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 51 (Matemática 03) </h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/B-RTMmvmogg" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 52 (Português N)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/zQqJhTj7c-Y" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 53 (Português P)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/9JVmafl0NRs" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+    <div class="container">
+      <div class="text-center">
+      
+        <h1 class="color">(Trabalho Avaliativo)<h1>
+        <h2 class="mb-4">Tarefa semanal 13 - 22/junho até 28/junho</h2>
+        <h3 class=mb-4>Ensino Fundamental</h3>
+        <h3 class=mb-4> 1º ano (6 anos) </h3>
+        <p>Clique na imagem para baixar o desenvolvimento e o trabalho</p>
+      
+      </div>
+      
+
+      <div class="container">
+      <div class="text-center tarefas-img2">
+      <div class="row">
+      <div class="col-lg-6 col-sm-6">
+      <h5>Desenvolvimento</h5>
+              <a href="./images/infantil6/semana13/desenvolvimento.pdf" download="download">
+              <img class="img-fluid" src="./images/infantil6/semana13/desenvolvimento.jpg" alt=""></a>
+          </div>
+          <div class="col-lg-6 col-sm-6">
+          <h5>Trabalho</h5>
+          <a href="./images/infantil6/semana13/trabalho6e7.pdf" download="download">
+          <img class="img-fluid" src="./images/infantil6/semana13/trabalho.jpg" alt=""></a>
+      </div>
+       
+     </div>
+     </div>
+     </div>
 </section>
 
 
@@ -8835,6 +9317,136 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 47 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/H1pa1Ox33AY" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 48 (Português 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/y2bI9Sy_uEE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 49 (Português 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/9dZ59RWUPH4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 50 (Português 03)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/-zr5Eepluj4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 51 (Português 04)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/In9MVTxo814" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 52 (Português 05)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/GfRRJ6psNso" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 53 (Português 06)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/oPw0DEYc1-A" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 54 (Matemática)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/a68Mvp8jGeA" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+    <div class="container">
+      <div class="text-center">
+      
+        <h1 class="color">(Trabalho Avaliativo)<h1>
+        <h2 class="mb-4">Tarefa semanal 13 - 22/junho até 28/junho</h2>
+        <h3 class=mb-4>Ensino Fundamental</h3>
+        <h3 class=mb-4> 2º ano (7 anos) </h3>
+        <p>Clique na imagem para baixar o desenvolvimento e o trabalho</p>
+      
+      </div>
+      
+
+      <div class="container">
+      <div class="text-center tarefas-img2">
+      <div class="row">
+      <div class="col-lg-6 col-sm-6">
+      <h5>Desenvolvimento</h5>
+              <a href="./images/infantil7/semana13/desenvolvimento.pdf" download="download">
+              <img class="img-fluid" src="./images/infantil6/semana13/desenvolvimento.jpg" alt=""></a>
+          </div>
+          <div class="col-lg-6 col-sm-6">
+          <h5>Trabalho</h5>
+          <a href="./images/infantil7/semana13/trabalho6e7.pdf" download="download">
+          <img class="img-fluid" src="./images/infantil6/semana13/trabalho.jpg" alt=""></a>
+      </div>
+       
+     </div>
+     </div>
+     </div>
 </section>
 
 
@@ -10225,6 +10837,112 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 </div>
 </div>
 </div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 42 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/SG0sca55arg" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 43 (Matemática 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/oHN-nPXGcdc" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 44 (Matemática 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/OaCQsQipR2U" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 45 (Matemática 03)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/yJtT3H-wNP4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 46(Português 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/JUN4e_bNEAE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 47(Português 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/-_-XDdNG2DI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+    <div class="container">
+      <div class="text-center">
+      
+        <h1 class="color">(Trabalho Avaliativo)<h1>
+        <h2 class="mb-4">Tarefa semanal 13 - 22/junho até 28/junho</h2>
+        <h3 class=mb-4>Ensino Fundamental</h3>
+        <h3 class=mb-4> 3º ano (8 anos) </h3>
+        <p>Clique na imagem para baixar o desenvolvimento e o trabalho</p>
+      
+      </div>
+      
+
+      <div class="container">
+      <div class="text-center tarefas-img2">
+      <div class="row">
+      <div class="col-lg-6 col-sm-6">
+      <h5>Desenvolvimento</h5>
+              <a href="./images/infantil8/semana13/desenvolvimento.pdf" download="download">
+              <img class="img-fluid" src="./images/infantil6/semana13/desenvolvimento.jpg" alt=""></a>
+          </div>
+          <div class="col-lg-6 col-sm-6">
+          <h5>Trabalho</h5>
+          <a href="./images/infantil8/semana13/trabalho8e9.pdf" download="download">
+          <img class="img-fluid" src="./images/infantil6/semana13/trabalho.jpg" alt=""></a>
+      </div>
+       
+     </div>
+     </div>
+     </div>
 </section>
 
 
@@ -11612,6 +12330,112 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 </div>
 </div>
 </div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 42 (Inglês)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/mx3o3VRv79s" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 43 (Matemática 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/oHN-nPXGcdc" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 44 (Matemática 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/OaCQsQipR2U" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 45 (Matemática 03)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/yJtT3H-wNP4" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 46(Português 01)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/JUN4e_bNEAE" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 47(Português 02)</h3>
+<div class="video-container">
+
+<iframe width="1311" height="480" src="https://www.youtube.com/embed/-_-XDdNG2DI" frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="prova"
+    <div class="container">
+      <div class="text-center">
+      
+        <h1 class="color">(Trabalho Avaliativo)<h1>
+        <h2 class="mb-4">Tarefa semanal 13 - 22/junho até 28/junho</h2>
+        <h3 class=mb-4>Ensino Fundamental</h3>
+        <h3 class=mb-4> 4º ano (9 anos) </h3>
+        <p>Clique na imagem para baixar o desenvolvimento e o trabalho</p>
+      
+      </div>
+      
+
+      <div class="container">
+      <div class="text-center tarefas-img2">
+      <div class="row">
+      <div class="col-lg-6 col-sm-6">
+      <h5>Desenvolvimento</h5>
+              <a href="./images/infantil9/semana13/desenvolvimento.pdf" download="download">
+              <img class="img-fluid" src="./images/infantil6/semana13/desenvolvimento.jpg" alt=""></a>
+          </div>
+          <div class="col-lg-6 col-sm-6">
+          <h5>Trabalho</h5>
+          <a href="./images/infantil9/semana13/trabalho8e9.pdf" download="download">
+          <img class="img-fluid" src="./images/infantil6/semana13/trabalho.jpg" alt=""></a>
+      </div>
+       
+     </div>
+     </div>
+     </div>
 </section>
 
 
