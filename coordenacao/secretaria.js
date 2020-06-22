@@ -1,11 +1,28 @@
 var alunos = 'EJGCHAVES';
 
-function validar() {
-  console.log('teste');
+function validarLeitura() {
+  
   var divErro = document.querySelector('#msgErro');
   divErro.innerHTML = '';
   var texto = document.querySelector('#senha').value;
-  console.log(texto);
+  
+
+  if (texto == alunos) {
+    document.querySelector('#leitura').innerHTML = leitura;
+  }
+  else {
+
+    divErro.innerHTML = 'Senha incorreta. Tente novamente';
+  }
+}
+
+
+function validar() {
+  
+  var divErro = document.querySelector('#msgErro');
+  divErro.innerHTML = '';
+  var texto = document.querySelector('#senha').value;
+  
 
   if (texto == alunos) {
     document.querySelector('#datas').innerHTML = datas;
@@ -32,6 +49,213 @@ function validarTarefas() {
 
 }
 
+
+var leitura =`        <section class="hero-wrap hero-wrap-2 banner" style=" background-image: url('images/lerarte.jpg');"></section>
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+    <div class="text-center color1">
+        <div class="container">
+            <h1>Projeto Leitura</h1>
+            <h3>A literatura infantil nos leva a viajar com as crianças no universo das histórias contadas e recontadas.</h3>
+            <h3>16/06 à 19/06 Livros:
+                <br></h3>
+            <div class="row">
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/afadafala.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/artur.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/aventuras.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/briga.jpg" alt="">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center color">
+        <div class="container">
+            <h1>Projeto Leitura</h1>
+            <h3>É preciso que a leitura seja um ato de amor.</h3>
+            <h3>22/06 à 26/06</h3>
+            <div class="row">
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/brinquedo.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/bia.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/caixaa.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/acantatadapata.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="text-center color2">
+        <div class="container">
+            <h1>Projeto Leitura</h1>
+            <h3>Ler um bom livro é como conversar com as melhores mentes do passado.</h3>
+            <h3>29/06 à 03/07</h3>
+            <div class="row">
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/carambola.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/copa.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/fada.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/macaco.jpg" alt="">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <div class="text-center color">
+        <div class="container">
+            <h1>Projeto Leitura</h1>
+            <h3>A leitura traz ao homem plenitude, o discurso segurança e a escrita precisão.</h3>
+            <h3>06/07 à 10/07</h3>
+            <div class="row">
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/natal.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/opato.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/patativa.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <img class="img-fluid" src="./images/livros/uriel.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+     <div class="text-center color3">
+        <div class="container">
+            <h1>Projeto Leitura</h1>
+            <h3>A alfabetização é mais,muito mais, do que ler e escrever.É a habilidade de ler o mundo.</h3>
+            <h3>13/07 à 17/07</h3>
+            <p>Clique no livro para fazer o download</p>
+            <div class="row">
+
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <a href="./images/livros/pdf/umsonho.pdf" download="download"><img class="img-fluid" src="./images/livros/sonho.jpg" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <a href="./images/livros/pdf/livro1.pdf" download="download"><img class="img-fluid" src="./images/livros/conto.jpg" alt=""></a>
+                    </div>
+                </div>
+                   <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <a href="./images/livros/pdf/ajoaninha.pdf" download="download"><img class="img-fluid" src="./images/livros/joaninha.jpg" alt=""></a>
+                    </div>
+                </div>
+                   <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <a href="./images/livros/pdf/Familia.pdf" download="download"><img class="img-fluid" src="./images/livros/familia.jpg" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="text-center color">
+        <div class="container">
+            <h1>Projeto Leitura</h1>
+            <h3>A literatura infantil nos leva a viajar com as crianças no universo das histórias contadas e recontadas.</h3>
+            <h3>20/07 à 24/07</h3>
+            <p>Clique no livro para fazer o download</p>
+            <div class="row">
+
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <a href="./images/livros/pdf/amenina.pdf" download="download"><img class="img-fluid" src="./images/livros/amenina.jpg" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <a href="./images/livros/pdf/duda.pdf" download="download"><img class="img-fluid" src="./images/livros/duda.jpg" alt=""></a>
+                    </div>
+                </div>
+                   <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <a href="./images/livros/pdf/omenino.pdf" download="download"><img class="img-fluid" src="./images/livros/menino.jpg" alt=""></a>
+                    </div>
+                </div>
+                   <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <a href="./images/livros/pdf/3mariasbolosmeninos.pdf" download="download"><img class="img-fluid" src="./images/livros/3marias.jpg" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="text-center color1">
+    <div class="container">
+        <h1>Projeto Leitura</h1>
+        <h3>É preciso que a leitura seja um ato de amor.</h3>
+        <h3>27/07 à 31/07</h3>
+         </div> 
+         
+    </div>
+</div>
+</section>`;
 
 var datas = `<section class="hero-wrap hero-wrap-2"
 style="background-image: url('images/279359-saiba-como-sua-radio-pode-vender-mais-na-pascoa-636x363.jpg');">
