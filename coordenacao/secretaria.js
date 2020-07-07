@@ -1215,6 +1215,65 @@ var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
    <div class="text-center">
+      <h1 class="mb-4">Tarefa semanal 15<br> - 06/julho até 12/julho</h1>
+       <h3 class="mb-4">
+        Educação Infantil</h3>
+      <h3 class="mb-4">
+        Turma Berçário I & II</h3>
+     
+      <p>Clique nas imagens para baixar a tarefa</p>
+
+    </div>
+   </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana15/img1.jpeg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana15/img1.jpeg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana15/img2.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana15/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana15/img3.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana15/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana15/img4.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana15/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana15/img5.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana15/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana15/img6.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana15/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana15/img7.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana15/img7.jpg" alt=""></a>
+    </div>
+    </div>
+</div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+   <div class="text-center">
       <h1 class="mb-4">Tarefa semanal 14<br> - 29/junho até 05/julho</h1>
        <h3 class="mb-4">
         Educação Infantil</h3>
@@ -2582,6 +2641,58 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+     
+        <h1 class="mb-4">Tarefa semanal 15 <br> 06/julho até 12/julho</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil II (2 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana15/img1.png" download> <img class="img-fluid"
+            src="./images/infantil2/semana15/img1.png" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana15/img2.jpeg" download> <img class="img-fluid"
+            src="./images/infantil2/semana15/img2.jpeg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana15/img3.png" download> <img class="img-fluid"
+            src="./images/infantil2/semana15/img3.png" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana15/img4.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana15/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana15/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana15/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana15/img6.jpeg" download> <img class="img-fluid"
+            src="./images/infantil2/semana15/img6.jpeg" alt=""></a>
+      </div>
+      </div>
+  </div>
+  </div>
+  </section>
+
+
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
@@ -4100,6 +4211,54 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </section>
 
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+      <h1 class="mb-4">Tarefa semanal 15<br> 06/julho até 12/julho</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil III (3 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+</div>
+</section>
+
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana15/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil3/semana15/img1.jpg" alt="">
+      </a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana15/img2.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana15/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana15/img3.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana15/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana15/img4.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana15/img4.jpg" alt=""></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana15/img5.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana15/img5.jpg" alt=""></a>
+    </div>
+</div>
+</div>
+</div>
+</section>
+
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
   <div class="text-center">
@@ -5559,6 +5718,71 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 15<br>  06/julho até 12/julho</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil IV (4 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+      
+    </div>
+  </div>
+</section>
+
+
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana15/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil4/semana15/img1.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana15/img2.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana15/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana15/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana15/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana15/img4.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana15/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana15/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana15/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana15/img6.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana15/img6.jpg" alt=""></a>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana15/img7.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana15/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil4/semana15/img8.jpg" download> <img class="img-fluid"
+          src="./images/infantil4/semana15/img8.jpg" alt=""></a>
+    </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
@@ -7002,6 +7226,78 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 <iframe width="1311" height="489" src="https://www.youtube.com/embed/FeeFABcPGhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</div>
+</div>
+</div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+   
+      <h1 class="mb-4">Tarefa semanal 15<br>  06/julho até 12/julho</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil V (5 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+   
+  </div>
+</div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana15/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana15/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana15/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana15/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana15/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana15/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana15/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana15/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana15/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana15/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana15/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana15/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana15/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana15/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana15/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana15/img8.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil5/semana15/img9.jpg" download><img class="img-fluid"
+        src="./images/infantil5/semana15/img9.jpg" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil5/semana15/img10.jpg" download><img class="img-fluid"
+        src="./images/infantil5/semana15/img10.jpg" alt=""></a>
+  </div>
 </div>
 </div>
 </div>
@@ -8775,6 +9071,84 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 
 </section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 15 - 06/julho até 12/julho</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 1º ano (6 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     
+    </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img2.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img3.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img4.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img5.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img6.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img6.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img7.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img8.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img8.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img9.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img9.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil6/semana15/img10.jpg" download><img class="img-fluid"
+          src="./images/infantil6/semana15/img10.jpg" alt=""></a>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana15/img11.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana15/img11.jpg" alt=""></a>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -10621,6 +10995,85 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+    
+      <h1 class="mb-4">Tarefa semanal 15 - 06/julho até 12/julho</h1>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 2º ano (7 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    
+  </div>
+</div>
+</section>
+
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img8.jpg" alt=""></a>
+    </div>
+ </div>
+ <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img9.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img9.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img10.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img10.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana15/img11.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana15/img11.jpg" alt=""></a>
+  </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
@@ -12321,6 +12774,86 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 </section>
 
 
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 15 - 06/julho até 12/julho</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 3º ano (8 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     
+    </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img2.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img3.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img4.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img5.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img6.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img6.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img7.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img8.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img8.jpg" alt=""></a>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img9.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img9.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana15/img10.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana15/img10.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil8/semana15/img11.jpg" download><img class="img-fluid"
+          src="./images/infantil8/semana15/img11.jpg" alt=""></a>
+    </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</section>
+
+
+
 <section class="ftco-section ftco-no-pt ftc-no-pb">
   <div class="container">
     <div class="text-center">
@@ -14005,6 +14538,110 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 </div>
 </div>
 </section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+    
+      <h1 class="mb-4">Tarefa semanal 15 - 06/julho até 12/julho</h1>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 4º ano (9 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    
+  </div>
+</div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img8.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img9.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img9.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img10.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img10.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img11.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img11.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img12.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img12.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img13.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img13.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img14.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img14.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img15.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img15.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana15/img16.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana15/img16.jpg" alt=""></a>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+</section>
+
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
