@@ -9406,15 +9406,29 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
         <h1 class="mb-4">Tarefa semanal 16 - 13/julho até 19/julho</h1>
         <h3 class=mb-4> Ensino Fundamental</h3>
         <h3 class=mb-4> 1º ano (6 anos)</h3>
-        <p>Clique nas imagens para baixar a tarefa</p>
+        
      
     </div>
   </div>
 </section>
 
 <section>
+<div class="container text-center">
+<h2>Prova de Inglês</h2>
+<p>Clique na imagem para baixar a Prova</p>
+<div class="text-center tarefas-img1">
+<div class="row">
+    <div class="col-sm">
+        <a href="./images/infantil6/semana16/ingles6.docx" download="download">
+        <img class="img-fluid" src="./images/kids.jpg" alt=""></a>
+    </div>
+ </div>
+</div>
+</div>
 <div class="tarefas-img">
-  <div class="container">
+  <div class="container text-center">
+  <h3>Tarefa Semanal</h3>
+  <p>Clique nas imagens para baixar a tarefa</p>
     <div class="row">
       <div class="col-sm">
         <a href="./images/infantil6/semana16/img1.jpg" download><img class="img-fluid"
@@ -11411,7 +11425,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
       <h1 class="mb-4">Tarefa semanal 16 - 13/julho até 19/julho</h1>
       <h3 class=mb-4> Ensino Fundamental</h3>
       <h3 class=mb-4> 2º ano (7 anos)</h3>
-      <p>Clique nas imagens para baixar a tarefa</p>
+      
     
   </div>
 </div>
@@ -11419,8 +11433,22 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 
 
 <section>
+<div class="container text-center">
+<h2>Prova de Inglês</h2>
+<p>Clique na imagem para baixar a Prova</p>
+<div class="text-center tarefas-img1">
+<div class="row">
+    <div class="col-sm">
+        <a href="./images/infantil7/semana16/ingles7.docx" download="download">
+        <img class="img-fluid" src="./images/kids.jpg" alt=""></a>
+    </div>
+ </div>
+</div>
+</div>
 <div class="tarefas-img">
-<div class="container">
+<div class="container text-center">
+<h3>Tarefa Semanal</h3>
+<p>Clique nas imagens para baixar a tarefa</p>
   <div class="row">
     <div class="col-sm">
       <a href="./images/infantil7/semana16/img1.jpg" download><img class="img-fluid"
@@ -13273,15 +13301,29 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
         <h1 class="mb-4">Tarefa semanal 16 - 13/julho até 19/julho</h1>
         <h3 class=mb-4> Ensino Fundamental</h3>
         <h3 class=mb-4> 3º ano (8 anos)</h3>
-        <p>Clique nas imagens para baixar a tarefa</p>
+        
      
     </div>
   </div>
 </section>
 
 <section>
+<div class="container text-center">
+<h2>Prova de Inglês</h2>
+<p>Clique na imagem para baixar a Prova</p>
+<div class="text-center tarefas-img1">
+<div class="row">
+    <div class="col-sm">
+        <a href="./images/infantil8/semana16/ingles8.docx" download="download">
+        <img class="img-fluid" src="./images/kids.jpg" alt=""></a>
+    </div>
+ </div>
+</div>
+</div>
 <div class="tarefas-img">
-  <div class="container">
+  <div class="container text-center">
+  <h3>Tarefa Semanal</h3>
+  <p>Clique nas imagens para baixar a tarefa</p>
     <div class="row">
       <div class="col-sm">
         <a href="./images/infantil8/semana16/img1.jpg" download><img class="img-fluid"
@@ -15114,15 +15156,29 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
       <h1 class="mb-4">Tarefa semanal 16 - 13/julho até 19/julho</h1>
       <h3 class=mb-4> Ensino Fundamental</h3>
       <h3 class=mb-4> 4º ano (9 anos)</h3>
-      <p>Clique nas imagens para baixar a tarefa</p>
+     
     
   </div>
 </div>
 </section>
 
 <section>
+<div class="container text-center">
+<h2>Prova de Inglês</h2>
+<p>Clique na imagem para baixar a Prova</p>
+<div class="text-center tarefas-img1">
+<div class="row">
+    <div class="col-sm">
+        <a href="./images/infantil9/semana16/ingles9.docx" download="download">
+        <img class="img-fluid" src="./images/kids.jpg" alt=""></a>
+    </div>
+ </div>
+</div>
+</div>
 <div class="tarefas-img">
-<div class="container">
+<div class="container text-center">
+<h3>Tarefa Semanal</h3>
+<p>Clique nas imagens para baixar a tarefa</p>
   <div class="row">
     <div class="col-sm">
       <a href="./images/infantil9/semana16/img1.jpg" download><img class="img-fluid"
