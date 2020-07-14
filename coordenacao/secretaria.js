@@ -1209,7 +1209,242 @@ var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: 
 </div>
 </div>
 </div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 67</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/WaGXQZ7-T_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 68</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/b9pKyPFlhRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 69</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/XU32mW_2GeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 70</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/xjOoe261J6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 71</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/85E5iYajD6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 72</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/Ofom6YumVk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 73</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/DN4-rh6Nb5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 74</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/yFa9MojF_UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 75</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/ILAzyZLjDDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 76</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/sOwRIhEhZdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 77</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/kX74i_-jJ-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 78</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/QBuVSzMpWVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 79</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/suBFfKDCx2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 80</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/lWTydV4g5vU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 81</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/Z9-IsNqnN10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 82</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/m7KdpXBN5S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 83</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/-ZEf1NYlw8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 84</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/JZG3VciLhxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 85</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/xdQR70VV4nU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 86</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/DY_IioH0EZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 87</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/q4RP2Vrc5NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+
 </section>
+
+
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -2696,6 +2931,237 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="489" src="https://www.youtube.com/embed/5ECnDx0Vt_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 67</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/WaGXQZ7-T_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 68</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/b9pKyPFlhRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 69</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/XU32mW_2GeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 70</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/xjOoe261J6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 71</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/85E5iYajD6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 72</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/Ofom6YumVk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 73</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/DN4-rh6Nb5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 74</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/yFa9MojF_UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 75</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/ILAzyZLjDDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 76</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/sOwRIhEhZdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 77</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/kX74i_-jJ-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 78</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/QBuVSzMpWVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 79</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/suBFfKDCx2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 80</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/lWTydV4g5vU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 81</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/Z9-IsNqnN10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 82</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/m7KdpXBN5S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 83</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/-ZEf1NYlw8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 84</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/JZG3VciLhxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 85</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/xdQR70VV4nU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 86</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/DY_IioH0EZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 87</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/q4RP2Vrc5NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 </div>
@@ -4334,7 +4800,249 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <h3 class="titulo">Vídeo aula 67</h3>
 <div class="video-container">
 
-<iframe width="1311" height="489" src="https://www.youtube.com/embed/5ECnDx0Vt_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="786" height="442" src="https://www.youtube.com/embed/WaGXQZ7-T_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 68</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/b9pKyPFlhRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 69</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/XU32mW_2GeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 70</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/xjOoe261J6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 71</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/85E5iYajD6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 72</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/Ofom6YumVk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 73</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/DN4-rh6Nb5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 74</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/yFa9MojF_UI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 75</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/ILAzyZLjDDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 76</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/sOwRIhEhZdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 77</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/kX74i_-jJ-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 78</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/QBuVSzMpWVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 79</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/suBFfKDCx2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 80</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/lWTydV4g5vU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 81</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/Z9-IsNqnN10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob">Vídeo aula 82</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/m7KdpXBN5S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 83</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/-ZEf1NYlw8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob">Vídeo aula 84</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/JZG3VciLhxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 85</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/xdQR70VV4nU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob">Vídeo aula 86</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/DY_IioH0EZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 87</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/q4RP2Vrc5NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob">Vídeo aula 88</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/6A-81wmE0zk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo">Vídeo aula 89</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/HthtOs9rC5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 </div>
