@@ -6614,6 +6614,117 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+
+
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 52 (Linguagem método sensorial 01)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/-GTH3efO1lY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 53 (Linguagem método sensorial 02)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/Yb21yVI-dfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 53 (Linguagem método sensorial 03)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/-9xZ7h16Ifc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 54 (Linguagem método sensorial 04)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/ljpmN__r_YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 55 (Linguagem método sensorial 05)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/AOnlFSSCdIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 56 (Linguagem método visual 01)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/MrPnurO9fEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 57 (Linguagem método visual 02)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/9IW4sSwcdbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 58 (Inglês 01)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/yx-Tu3uOo1A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 59 (Inglês 02)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/r5hgH6jE48g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
 </section>
 
 
@@ -8195,6 +8306,115 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <div class="video-container">
 
 <iframe width="1311" height="489" src="https://www.youtube.com/embed/FeeFABcPGhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 43 (Linguagem método sensorial 01)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/-GTH3efO1lY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video3">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 44 (Linguagem método sensorial 02)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/Yb21yVI-dfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 45 (Linguagem método sensorial 03)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/-9xZ7h16Ifc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video4">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 46 (Linguagem método sensorial 04)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/ljpmN__r_YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 47 (Linguagem método sensorial 05)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/AOnlFSSCdIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="video1">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 48 (Linguagem método visual 01)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/MrPnurO9fEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 49 (Linguagem método visual 02)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/9IW4sSwcdbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video2">
+<div class="container">
+<h3 class="titulob"> Vídeo aula 50 (Inglês 01)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/CEgFZ1PBviA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+</div>
+</div>
+
+<div class="video">
+<div class="container">
+<h3 class="titulo"> Vídeo aula 51 (Inglês 02)</h3>
+<div class="video-container">
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/_GTW6x6WlCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 </div>
