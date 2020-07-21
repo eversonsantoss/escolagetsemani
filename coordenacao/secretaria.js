@@ -53,36 +53,37 @@ function validarTarefas() {
 var leitura =`        <section class="hero-wrap hero-wrap-2 banner" style=" background-image: url('images/lerarte.jpg');"></section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
-    <div class="text-center color1">
-        <div class="container">
+<div class="text-center color1">
+<div class="container">
             <h1>Projeto Leitura</h1>
             <h3>A literatura infantil nos leva a viajar com as crianças no universo das histórias contadas e recontadas.</h3>
-            <h3>16/06 à 19/06 Livros:
-                <br></h3>
+            <h3>16/06 à 19/06 Livros:</h3>
+            <p>Clique no livro para fazer o download</p>
             <div class="row">
+
                 <div class="col-lg-3 col-sm-12 livros-img">
                     <div class="marge">
-                        <img class="img-fluid" src="./images/livros/afadafala.jpg" alt="">
+                        <a href="./images/livros/livrosN/A_fada_faladeira_M.pdf" download="download"><img class="img-fluid" src="./images/livros/afadafala.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 livros-img">
-                    <div class="marge">
-                        <img class="img-fluid" src="./images/livros/artur.jpg" alt="">
-                    </div>
+                <div class="marge">
+                <a href="./images/livros/livrosN/Arthur.pdf" download="download"><img class="img-fluid" src="./images/livros/artur.jpg" alt=""></a>
+            </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 livros-img">
-                    <div class="marge">
-                        <img class="img-fluid" src="./images/livros/aventuras.jpg" alt="">
-                    </div>
+                <div class="marge">
+                <a href="./images/livros/livrosN/As_Laranjas.pdf" download="download"><img class="img-fluid" src="./images/livros/aventuras.jpg" alt=""></a>
+            </div>   
                 </div>
                 <div class="col-lg-3 col-sm-12 livros-img">
-                    <div class="marge">
-                        <img class="img-fluid" src="./images/livros/briga.jpg" alt="">
-                    </div>
+                <div class="marge">
+                <a href="./images/livros/livrosN/A_briga.pdf" download="download"><img class="img-fluid" src="./images/livros/briga.jpg" alt=""></a>
                 </div>
 
             </div>
         </div>
+    </div>
     </div>
 
     <div class="text-center color">
@@ -90,26 +91,27 @@ var leitura =`        <section class="hero-wrap hero-wrap-2 banner" style=" back
             <h1>Projeto Leitura</h1>
             <h3>É preciso que a leitura seja um ato de amor.</h3>
             <h3>22/06 à 26/06</h3>
+            <p>Clique no livro para fazer o download</p>
             <div class="row">
                 <div class="col-lg-3 col-sm-12 livros-img">
-                    <div class="marge">
-                        <img class="img-fluid" src="./images/livros/brinquedo.jpg" alt="">
-                    </div>
+                <div class="marge">
+                <a href="./images/livros/livrosN/Que_brinquedo.pdf" download="download"><img class="img-fluid" src="./images/livros/brinquedo.jpg" alt=""></a>
+            </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 livros-img">
-                    <div class="marge">
-                        <img class="img-fluid" src="./images/livros/bia.jpg" alt="">
-                    </div>
+                <div class="marge">
+                <a href="./images/livros/livrosN/Bia_baixinha_M.pdf" download="download"><img class="img-fluid" src="./images/livros/bia.jpg" alt=""></a>
+            </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 livros-img">
-                    <div class="marge">
-                        <img class="img-fluid" src="./images/livros/caixaa.jpg" alt="">
-                    </div>
+                <div class="marge">
+                <a href="./images/livros/livrosN/A_caixa_magica_de_Luiz_M.pdf" download="download"><img class="img-fluid" src="./images/livros/caixaa.jpg" alt=""></a>
+            </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 livros-img">
-                    <div class="marge">
-                        <img class="img-fluid" src="./images/livros/acantatadapata.jpg" alt="">
-                    </div>
+                <div class="marge">
+                <a href="./images/livros/livrosN/Cantata.pdf" download="download"><img class="img-fluid" src="./images/livros/acantatadapata.jpg" alt=""></a>
+            </div>
                 </div>
             </div>
         </div>
@@ -121,26 +123,27 @@ var leitura =`        <section class="hero-wrap hero-wrap-2 banner" style=" back
             <h1>Projeto Leitura</h1>
             <h3>Ler um bom livro é como conversar com as melhores mentes do passado.</h3>
             <h3>29/06 à 03/07</h3>
+            <p>Clique no livro para fazer o download</p>
             <div class="row">
                 <div class="col-lg-3 col-sm-12 livros-img">
                     <div class="marge">
-                        <img class="img-fluid" src="./images/livros/carambola.jpg" alt="">
+                    <a href="./images/livros/livrosN/Carambola.pdf" download="download"><img class="img-fluid" src="./images/livros/carambola.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 livros-img">
                     <div class="marge">
-                        <img class="img-fluid" src="./images/livros/copa.jpg" alt="">
+                    <a href="./images/livros/livrosN/A_copa.pdf" download="download"><img class="img-fluid" src="./images/livros/copa.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 livros-img">
                     <div class="marge">
-                        <img class="img-fluid" src="./images/livros/fada.jpg" alt="">
+                    <a href="./images/livros/livrosN/A_fada_das_folhas_M.pdf" download="download"> <img class="img-fluid" src="./images/livros/fada.jpg" alt=""></a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-sm-12 livros-img">
                     <div class="marge">
-                        <img class="img-fluid" src="./images/livros/macaco.jpg" alt="">
+                    <a href="./images/livros/livrosN/O_macaco_e_a_banana_M.pdf" download="download"><img class="img-fluid" src="./images/livros/macaco.jpg" alt=""></a>
                     </div>
                 </div>
 
@@ -154,27 +157,28 @@ var leitura =`        <section class="hero-wrap hero-wrap-2 banner" style=" back
             <h1>Projeto Leitura</h1>
             <h3>A leitura traz ao homem plenitude, o discurso segurança e a escrita precisão.</h3>
             <h3>06/07 à 10/07</h3>
+            <p>Clique no livro para fazer o download</p>
             <div class="row">
                 <div class="col-lg-3 col-sm-12 livros-img">
                     <div class="marge">
-                        <img class="img-fluid" src="./images/livros/natal.jpg" alt="">
+                    <a href="./images/livros/livrosN/O_natal_de_Chico_em_Macacopolis_M.pdf" download="download"><img class="img-fluid" src="./images/livros/natal.jpg" alt=""></a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-sm-12 livros-img">
                     <div class="marge">
-                        <img class="img-fluid" src="./images/livros/opato.jpg" alt="">
+                    <a href="./images/livros/livrosN/O_pato_viajante_M.pdf" download="download"><img class="img-fluid" src="./images/livros/opato.jpg" alt=""></a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-sm-12 livros-img">
                     <div class="marge">
-                        <img class="img-fluid" src="./images/livros/patativa.jpg" alt="">
+                    <a href="./images/livros/livrosN/A_patativa_e_a_margarida_M.pdf" download="download"><img class="img-fluid" src="./images/livros/patativa.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-12 livros-img">
                     <div class="marge">
-                        <img class="img-fluid" src="./images/livros/uriel.jpg" alt="">
+                    <a href="./images/livros/livrosN/Uriel.pdf" download="download"><img class="img-fluid" src="./images/livros/uriel.jpg" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -251,10 +255,132 @@ var leitura =`        <section class="hero-wrap hero-wrap-2 banner" style=" back
         <h1>Projeto Leitura</h1>
         <h3>É preciso que a leitura seja um ato de amor.</h3>
         <h3>27/07 à 31/07</h3>
-         </div> 
-         
+        <p>Clique no livro para fazer o download</p>
+        <div class="row">
+
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                        <a href="./images/livros/livrosN/livro/A_vaca_amarela_e_a_panela_da_Clarabela_M.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/avaca.jpg" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                <div class="marge">
+                <a href="./images/livros/livrosN/livro/As_aventuras_do_sapo_xue_M.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/sapo.jpg" alt=""></a>
+            </div>
+                </div>
+                   <div class="col-lg-3 col-sm-12 livros-img">
+                   <div class="marge">
+                        <a href="./images/livros/livrosN/livro/Brincadeira_de_criança_M.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/brincadeira.jpg" alt=""></a>
+                    </div>
+                </div>
+                   <div class="col-lg-3 col-sm-12 livros-img">
+                   <div class="marge">
+                   <a href="./images/livros/livrosN/livro/lobomau.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/lobo.jpg" alt=""></a>
+               </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+
+<div class="text-center color">
+<div class="container">
+            <h1>Projeto Leitura</h1>
+            <h3>A literatura infantil nos leva a viajar com as crianças no universo das histórias contadas e recontadas.</h3>
+            <h3>Livros Extras</h3>
+            <p>Clique no livro para fazer o download</p>
+            <div class="row">
+
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                    <a href="./images/livros/livrosN/livro/Floresta.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/confusao.jpg" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                <div class="marge">
+                <a href="./images/livros/livrosN/livro/Dudu_e_o_carro_vermelho_M.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/dudu.jpeg" alt=""></a>
+            </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                <div class="marge">
+                <a href="./images/livros/livrosN/livro/Grilinho_cri_cri_M.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/grilinho.jpg" alt=""></a>
+            </div>   
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                <div class="marge">
+                <a href="./images/livros/livrosN/livro/casa.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/vovo.jpg" alt=""></a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <div class="text-center color1">
+        <div class="container">
+            <h1>Projeto Leitura</h1>
+            <h3>É preciso que a leitura seja um ato de amor.</h3>
+            <h3>Livros Extras</h3>
+            <p>Clique no livro para fazer o download</p>
+            <div class="row">
+                <div class="col-lg-3 col-sm-12 livros-img">
+                <div class="marge">
+                <a href="./images/livros/livrosN/livro/irmaoo.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/irmao.jpg" alt=""></a>
+            </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                <div class="marge">
+                <a href="./images/livros/livrosN/livro/Fada.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/nacasa.jpg" alt=""></a>
+            </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                <div class="marge">
+                <a href="./images/livros/livrosN/livro/circo.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/ocirco.jpg" alt=""></a>
+            </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                <div class="marge">
+                <a href="./images/livros/livrosN/livro/grito.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/ogrito.jpg" alt=""></a>
+            </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="text-center color">
+        <div class="container">
+            <h1>Projeto Leitura</h1>
+            <h3>Ler um bom livro é como conversar com as melhores mentes do passado.</h3>
+            <h3>Livros Extras</h3>
+            <p>Clique no livro para fazer o download</p>
+            <div class="row">
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                    <a href="./images/livros/livrosN/livro/vento.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/ovento.jpg" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                    <a href="./images/livros/livrosN/livro/Omarr.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/omar.jpg" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                    <a href="./images/livros/livrosN/livro/carneirinhos.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/ostres.jpg" alt=""></a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-12 livros-img">
+                    <div class="marge">
+                    <a href="./images/livros/livrosN/livro/Peixinhoo.pdf" download="download"><img class="img-fluid" src="./images/livros/livrosN/livro/peixinho.jpg" alt=""></a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
 </section>`;
 
 var datas = `<section class="hero-wrap hero-wrap-2"
