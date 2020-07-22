@@ -9690,3 +9690,11 @@ textarea.form-control {
       background-color: #F3F3F4;
       padding: 60px;
       }
+
+      .informativo1 {
+        background-color: lightcoral;
+        padding: 60px;
+      }
+      .formulario{
+        color: white;
+      }
