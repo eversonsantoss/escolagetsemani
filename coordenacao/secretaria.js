@@ -558,6 +558,11 @@ var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="text-center">
+<div class="video-aula">
+<h1>Aulas online</h1>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 11:00 às 12:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemaniberçario"> Clique para acessar a aula </a>
+</div>
  <div class="container">
     <h1 class="mb-4">
       Recado aos pais e/ou responsáveis:
@@ -2294,6 +2299,11 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class=" text-center video-aula">
+<h1>Aulas online</h1>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 13:30 às 15:30 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemaniinfantilII"> Clique para acessar a aula </a>
+</div>
 <div class="container">
   <div class="text-center">
   
@@ -4110,6 +4120,11 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class=" text-center video-aula">
+<h1>Aulas online</h1>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 13:30 às 15:30 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemaniinfantilII"> Clique para acessar a aula </a>
+</div>
 <div class="container">
   <div class="text-center">
     
@@ -6107,6 +6122,11 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class=" text-center video-aula">
+<h1>Aulas online</h1>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 13:30 às 15:30 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemaniinfantilIV"> Clique para acessar a aula </a>
+</div>
 <div class="container">
   <div class="text-center">
     
@@ -7908,6 +7928,11 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class=" text-center video-aula">
+<h1>Aulas online</h1>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 13:30 às 15:30 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemaniinfantilV"> Clique para acessar a aula </a>
+</div>
 <div class="container">
   <div class="text-center">
    
@@ -9658,6 +9683,11 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class=" text-center video-aula">
+<h1>Aulas online</h1>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 08:00 às 11:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemanifundamentalI"> Clique para acessar a aula </a>
+</div>
 <div class="container">
   <div class="text-center">
     
@@ -11611,6 +11641,11 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class=" text-center video-aula">
+<h1>Aulas online</h1>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 08:00 às 11:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemanifundamentalII"> Clique para acessar a aula </a>
+</div>
 <div class="container">
   <div class="text-center">
     
@@ -13647,6 +13682,11 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class=" text-center video-aula">
+<h1>Aulas online</h1>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 08:00 às 11:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemanifundamentalIII"> Clique para acessar a aula </a>
+</div>
 <div class="container">
   <div class="text-center">
     
@@ -15500,6 +15540,11 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class=" text-center video-aula">
+<h1>Aulas online</h1>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 15:40 às 17:40 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemanifundamentalIV"> Clique para acessar a aula </a>
+</div>
 <div class="container">
   <div class="text-center">
    
