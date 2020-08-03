@@ -1575,7 +1575,140 @@ var bercario = `<section class="hero-wrap hero-wrap-2" style="background-image: 
 
 </section>
 
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+   <div class="text-center">
+      <h1 class="mb-4">Tarefa semanal 19<br> - 03/agosto até 09/agosto</h1>
+       <h3 class="mb-4">
+        Educação Infantil</h3>
+      <h3 class="mb-4">
+        Turma Berçário I & II</h3>
+     
+      <p>Clique nas imagens para baixar a tarefa</p>
 
+    </div>
+   </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana19/img1.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana19/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana19/img2.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana19/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana19/img3.png" download="download">
+        <img class="img-fluid" src="./images/berçario/semana19/img3.png" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana19/img4.jpeg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana19/img4.jpeg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana19/img5.png" download="download">
+        <img class="img-fluid" src="./images/berçario/semana19/img5.png" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana19/img6.png" download="download">
+        <img class="img-fluid" src="./images/berçario/semana19/img6.png" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana19/img7.png" download="download">
+        <img class="img-fluid" src="./images/berçario/semana19/img7.png" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana19/img8.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana19/img8.jpg" alt=""></a>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana19/img9.jpg" download="download">
+        <img class="img-fluid" src="./images/berçario/semana19/img9.jpg" alt=""></a>
+    </div>
+    </div>
+</div>
+</div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+   <div class="text-center">
+      <h1 class="mb-4">Tarefa semanal 18<br> - 27/julho até 02/agosto</h1>
+       <h3 class="mb-4">
+        Educação Infantil</h3>
+      <h3 class="mb-4">
+        Turma Berçário I & II</h3>
+     
+      <p>Clique nas imagens para baixar a tarefa</p>
+
+    </div>
+   </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana18/img1.png" download="download">
+        <img class="img-fluid" src="./images/berçario/semana18/img1.png" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana18/img2.png" download="download">
+        <img class="img-fluid" src="./images/berçario/semana18/img2.png" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana18/img3.png" download="download">
+        <img class="img-fluid" src="./images/berçario/semana18/img3.png" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/berçario/semana18/img4.png" download="download">
+        <img class="img-fluid" src="./images/berçario/semana18/img4.png" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/berçario/semana18/img5.png" download="download">
+        <img class="img-fluid" src="./images/berçario/semana18/img5.png" alt=""></a>
+    </div>
+    </div>
+</div>
+</div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+   <div class="text-center prova">
+      <h1 class="mb-4">Tarefa semanal 17<br> - 20/julho até 26/julho</h1>
+       <h3 class="mb-4">
+        Educação Infantil</h3>
+      <h3 class="mb-4">
+        Turma Berçário I & II</h3>
+     
+        <h1 class="color">(Recesso escolar)</h1>
+
+    </div>
+   </div>
+</section>
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -3302,6 +3435,132 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+     
+        <h1 class="mb-4">Tarefa semanal 19 <br> 03/agosto até 09/agosto</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil II (2 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana19/img1.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana19/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana19/img2.png" download> <img class="img-fluid"
+            src="./images/infantil2/semana19/img2.png" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana19/img3.jpeg" download> <img class="img-fluid"
+            src="./images/infantil2/semana19/img3.jpeg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana19/img4.png" download> <img class="img-fluid"
+            src="./images/infantil2/semana19/img4.png" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana19/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana19/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana19/img6.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana19/img6.jpg" alt=""></a>
+      </div>
+      </div>
+     </div>
+  </div>
+  </div>
+  </section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+     
+        <h1 class="mb-4">Tarefa semanal 18 <br> 27/julho até 02/agosto</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil II (2 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana18/img1.png" download> <img class="img-fluid"
+            src="./images/infantil2/semana18/img1.png" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana18/img2.png" download> <img class="img-fluid"
+            src="./images/infantil2/semana18/img2.png" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana18/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana18/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana18/img4.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana18/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana18/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana18/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana18/img6.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana18/img6.jpg" alt=""></a>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil2/semana18/img7.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana18/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil2/semana18/img8.jpg" download> <img class="img-fluid"
+            src="./images/infantil2/semana18/img8.jpg" alt=""></a>
+      </div>
+      </div>
+  </div>
+  </div>
+  </section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center prova">
+     
+        <h1 class="mb-4">Tarefa semanal 17 <br> 20/julho até 26/julho</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil II (2 anos)</h3>
+        <h1 class="color">(Recesso escolar)</h1>
+     </div>
+  </div>
 </section>
 
 
@@ -5194,6 +5453,143 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class="container">
   <div class="text-center">
+      <h1 class="mb-4">Tarefa semanal 19<br> 03/agosto até 09/agosto</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil III (3 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+</div>
+</section>
+
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana19/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil3/semana19/img1.jpg" alt="">
+      </a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana19/img2.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana19/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana19/img3.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana19/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana19/img4.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana19/img4.jpg" alt=""></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana19/img5.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana19/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana19/img6.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana19/img6.jpg" alt=""></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana19/img7.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana19/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana19/img8.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana19/img8.jpg" alt=""></a>
+    </div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+      <h1 class="mb-4">Tarefa semanal 18<br> 27/julho até 02/agosto</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil III (3 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    </div>
+</div>
+</section>
+
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana18/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil3/semana18/img1.jpg" alt="">
+      </a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana18/img2.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana18/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana18/img3.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana18/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana18/img4.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana18/img4.jpg" alt=""></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana18/img5.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana18/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana18/img6.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana18/img6.jpg" alt=""></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil3/semana18/img7.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana18/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil3/semana18/img8.jpg" download> <img class="img-fluid"
+          src="./images/infantil3/semana18/img8.jpg" alt=""></a>
+    </div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center prova">
+      <h1 class="mb-4">Tarefa semanal 17<br> 20/julho até 26/julho</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil III (3 anos)</h3>
+      <h1 class="color">(Recesso escolar)</h1>
+    </div>
+</div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
       <h1 class="mb-4">Tarefa semanal 16<br> 13/julho até 19/julho</h1>
       <h3 class=mb-4> Educação Infantil</h3>
       <h3 class=mb-4> Turma Infantil III (3 anos)</h3>
@@ -6871,6 +7267,167 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 </div>
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 19<br>  03/agosto até 09/agosto</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil IV (4 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+      
+    </div>
+  </div>
+</section>
+
+
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana19/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil4/semana19/img1.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana19/img2.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana19/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana19/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana19/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana19/img4.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana19/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana19/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana19/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana19/img6.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana19/img6.jpg" alt=""></a>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana19/img7.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana19/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil4/semana19/img8.jpg" download> <img class="img-fluid"
+          src="./images/infantil4/semana19/img8.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil4/semana19/img9.jpg" download> <img class="img-fluid"
+        src="./images/infantil4/semana19/img9.jpg" alt=""></a>
+  </div>
+  <div class="col-sm">
+    <a href="./images/infantil4/semana19/img10.jpg" download> <img class="img-fluid"
+        src="./images/infantil4/semana19/img10.jpg" alt=""></a>
+  </div>
+  </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 18<br>  27/julho até 02/agosto</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil IV (4 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+      
+    </div>
+  </div>
+</section>
+
+
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana18/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil4/semana18/img1.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana18/img2.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana18/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana18/img3.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana18/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana18/img4.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana18/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana18/img5.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana18/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil4/semana18/img6.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana18/img6.jpg" alt=""></a>
+      </div>
+    </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil4/semana18/img7.jpg" download> <img class="img-fluid"
+            src="./images/infantil4/semana18/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil4/semana18/img8.jpg" download> <img class="img-fluid"
+          src="./images/infantil4/semana18/img8.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-sm">
+    <a href="./images/infantil4/semana18/img9.jpg" download> <img class="img-fluid"
+        src="./images/infantil4/semana18/img9.jpg" alt=""></a>
+  </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center prova">
+      
+        <h1 class="mb-4">Tarefa semanal 17<br>  20/julho até 26/julho</h1>
+        <h3 class=mb-4> Educação Infantil</h3>
+        <h3 class=mb-4> Turma Infantil IV (4 anos)</h3>
+        <h1 class="color">(Recesso escolar)</h1>
+      
+    </div>
+  </div>
 </section>
 
 
@@ -8573,6 +9130,136 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </section>
 
 
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+   
+      <h1 class="mb-4">Tarefa semanal 19<br>  03/agosto até 09/agosto</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil V (5 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+   
+  </div>
+</div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana19/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana19/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana19/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana19/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana19/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana19/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana19/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana19/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana19/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana19/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana19/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana19/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana19/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana19/img7.jpg" alt=""></a>
+    </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+   
+      <h1 class="mb-4">Tarefa semanal 18<br>  27/julho até 02/agosto</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil V (5 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+   
+  </div>
+</div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana18/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana18/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana18/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana18/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana18/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana18/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana18/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana18/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana18/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana18/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil5/semana18/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana18/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil5/semana18/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil5/semana18/img7.jpg" alt=""></a>
+    </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center prova">
+   
+      <h1 class="mb-4">Tarefa semanal 17<br>  20/julho até 26/julho</h1>
+      <h3 class=mb-4> Educação Infantil</h3>
+      <h3 class=mb-4> Turma Infantil V (5 anos)</h3>
+      <h1 class="color">(Recesso escolar)</h1>
+   
+  </div>
+</div>
+</section>
+
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -9685,7 +10372,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class=" text-center video-aula">
 <h1>Aulas online</h1>
-<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 08:00 às 11:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 09:00 às 12:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
 <a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemanifundamentalI"> Clique para acessar a aula </a>
 </div>
 <div class="container">
@@ -10479,6 +11166,151 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </div>
 
+</section>
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 19 - 03/agosto até 09/agosto</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 1º ano (6 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     
+    </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana19/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana19/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana19/img2.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana19/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana19/img3.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana19/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana19/img4.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana19/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana19/img5.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana19/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana19/img6.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana19/img6.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana19/img7.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana19/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana19/img8.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana19/img8.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana19/img9.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana19/img9.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+      <a href="./images/infantil6/semana19/img10.jpg" download><img class="img-fluid"
+          src="./images/infantil6/semana19/img10.jpg" alt=""></a>
+      </div>
+      </div>
+      </div>
+  </div>
+  </div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 18 - 27/julho até 02/agosto</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 1º ano (6 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     
+    </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana18/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana18/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana18/img2.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana18/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana18/img3.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana18/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana18/img4.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana18/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana18/img5.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana18/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil6/semana18/img6.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana18/img6.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil6/semana18/img7.jpg" download><img class="img-fluid"
+            src="./images/infantil6/semana18/img7.jpg" alt=""></a>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center prova">
+      
+        <h1 class="mb-4">Tarefa semanal 17 - 20/julho até 26/julho</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 1º ano (6 anos)</h3>
+        <h1 class="color">(Recesso escolar)</h1>
+     
+    </div>
+  </div>
 </section>
 
 
@@ -11643,7 +12475,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class=" text-center video-aula">
 <h1>Aulas online</h1>
-<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 08:00 às 11:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 09:00 às 12:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
 <a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemanifundamentalII"> Clique para acessar a aula </a>
 </div>
 <div class="container">
@@ -12505,6 +13337,163 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 </div>
 </section>
 
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+    
+      <h1 class="mb-4">Tarefa semanal 19 - 03/agosto até 09/agosto</h1>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 2º ano (7 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    
+  </div>
+</div>
+</section>
+
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img8.jpg" alt=""></a>
+    </div>
+ </div>
+ <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img9.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img9.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana19/img10.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana19/img10.jpg" alt=""></a>
+    </div>
+    </div>
+</div>
+</div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+    
+      <h1 class="mb-4">Tarefa semanal 18 - 27/julho até 02/agosto</h1>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 2º ano (7 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    
+  </div>
+</div>
+</section>
+
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana18/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana18/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana18/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana18/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana18/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana18/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana18/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana18/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana18/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana18/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana18/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana18/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana18/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana18/img7.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil7/semana18/img8.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana18/img8.jpg" alt=""></a>
+    </div>
+ </div>
+ <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil7/semana18/img9.jpg" download><img class="img-fluid"
+          src="./images/infantil7/semana18/img9.jpg" alt=""></a>
+    </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center prova">
+    
+      <h1 class="mb-4">Tarefa semanal 17 - 20/julho até 26/julho</h1>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 2º ano (7 anos)</h3>
+      <h1 class="color">(Recesso escolar)</h1>
+    
+  </div>
+</div>
+</section>
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -13684,7 +14673,7 @@ style="background-image: url('./images/gerenciamento-de-tarefas-670x419.png');">
 <section class="ftco-section ftco-no-pt ftc-no-pb">
 <div class=" text-center video-aula">
 <h1>Aulas online</h1>
-<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 08:00 às 11:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
+<h3>Senhores pais e/ou responsáveis, informamos que a partir de 28/07/2020 as aulas serão ministradas online pelo aplicativo Jitsi Meet, estaremos disponibilizando o link para as aulas e facilitando o acesso neste campo. As aulas para essa turma será de segunda a sexta de 09:00 às 12:00 Basta clicar no botão abaixo para ser encaminhado para a sala virtual.</h3>
 <a class=" btn btn-secondary px-4 py-3 mt-3"  href="https://meet.jit.si/colegiogetsemanifundamentalIII"> Clique para acessar a aula </a>
 </div>
 <div class="container">
@@ -14386,6 +15375,166 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 </div>
 </section>
 
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 19 - 03/agosto até 09/agosto</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 3º ano (8 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     
+    </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img2.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img3.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img4.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img5.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img6.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img6.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img7.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img8.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img8.jpg" alt=""></a>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img9.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img9.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana19/img10.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana19/img10.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil8/semana19/img11.jpg" download><img class="img-fluid"
+          src="./images/infantil8/semana19/img11.jpg" alt=""></a>
+    </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center">
+      
+        <h1 class="mb-4">Tarefa semanal 18 - 27/julho até 02/agosto</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 3º ano (8 anos)</h3>
+        <p>Clique nas imagens para baixar a tarefa</p>
+     
+    </div>
+  </div>
+</section>
+
+<section>
+<div class="tarefas-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana18/img1.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana18/img1.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana18/img2.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana18/img2.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana18/img3.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana18/img3.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana18/img4.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana18/img4.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana18/img5.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana18/img5.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana18/img6.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana18/img6.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana18/img7.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana18/img7.jpg" alt=""></a>
+      </div>
+      <div class="col-sm">
+        <a href="./images/infantil8/semana18/img8.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana18/img8.jpg" alt=""></a>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm">
+        <a href="./images/infantil8/semana18/img9.jpg" download><img class="img-fluid"
+            src="./images/infantil8/semana18/img9.jpg" alt=""></a>
+    </div>
+  </div>
+      </div>
+  </div>
+  </div>
+</section>
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+  <div class="container">
+    <div class="text-center prova">
+      
+        <h1 class="mb-4">Tarefa semanal 17 - 20/julho até 26/julho</h1>
+        <h3 class=mb-4> Ensino Fundamental</h3>
+        <h3 class=mb-4> 3º ano (8 anos)</h3>
+        <h1 class="color">(Recesso escolar) </h1>
+     
+    </div>
+  </div>
+</section>
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
@@ -16246,6 +17395,79 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 </section>
 
 
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center">
+    
+      <h1 class="mb-4">Tarefa semanal 18 - 27/julho até 02/agosto</h1>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 4º ano (9 anos)</h3>
+      <p>Clique nas imagens para baixar a tarefa</p>
+    
+  </div>
+</div>
+</section>
+
+<section>
+<div class="tarefas-img">
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana18/img1.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana18/img1.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana18/img2.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana18/img2.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana18/img3.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana18/img3.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana18/img4.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana18/img4.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana18/img5.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana18/img5.jpg" alt=""></a>
+    </div>
+    <div class="col-sm">
+      <a href="./images/infantil9/semana18/img6.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana18/img6.jpg" alt=""></a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <a href="./images/infantil9/semana18/img7.jpg" download><img class="img-fluid"
+          src="./images/infantil9/semana18/img7.jpg" alt=""></a>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
+
+<section class="ftco-section ftco-no-pt ftc-no-pb">
+<div class="container">
+  <div class="text-center prova">
+    
+      <h1 class="mb-4">Tarefa semanal 17 - 20/julho até 26/julho</h1>
+      <h3 class=mb-4> Ensino Fundamental</h3>
+      <h3 class=mb-4> 4º ano (9 anos)</h3>
+     <h1 class="color">(Recesso escolar) </h1>
+    
+  </div>
+</div>
+</section>
 
 
 <section class="ftco-section ftco-no-pt ftc-no-pb">
